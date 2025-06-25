@@ -43,27 +43,22 @@ This is a curated list of new and up-to-date leaderboards for Large Language Mod
 1. **[LLM Leaderboard 2025 - llm-stats.com](https://llm-stats.com)**  
    Comprehensive leaderboard for LLMs with performance metrics and benchmark data. Includes interactive analysis tools to compare models like GPT-4o, Llama, o1, Gemini, and Claude based on context window, speed, and price. 
 
-2. **[Open LLM Leaderboard - Hugging Face](https://huggingface.co/spaces/open-llm-leaderboard/open-llm-leaderboard)**  
+2. **[Open LLM Leaderboard - Hugging Face](https://huggingface.co/open-llm-leaderboard)**  
    Evaluates open-source LLMs using benchmarks like IFEval, BBH, and MATH. Features real-time filtering and analysis of models, with community voting and comprehensive results.
 
 3. **[LLM Leaderboard 2025 - Vellum](https://www.vellum.ai/llm-leaderboard)**  
    Compares capabilities, price, and context window for leading commercial and open-source LLMs. Features 2025 benchmark data from model providers and independent evaluations, focusing on non-saturated benchmarks (excluding MMLU). 
 
 4. **[LLM Leaderboard - Artificial Analysis](https://artificialanalysis.ai)**  
-   Ranks over 100 LLMs across metrics like intelligence, price, performance, speed (tokens per second), and context window. Provides detailed comparisons for models from OpenAI, Google, DeepSeek, and others. 
-5. **[Klu.ai LLM Leaderboard](https://klu.ai/llm-leaderboard)**  
-   Offers in-depth performance metrics and rankings for over 30 frontier LLMs, focusing on real-world use cases, speed, cost, and quality. Highlights models like GPT-4 Turbo, o1-preview, and Claude 3.5 Sonnet. 
+   Ranks over 100 LLMs across metrics like intelligence, price, performance, speed (tokens per second), and context window. Provides detailed comparisons for models from OpenAI, Google, DeepSeek, Alibaba Cloud and others. 
 
-6. **[SEAL LLM Leaderboards](https://scale.com/leaderboards)**  
+5. **[SEAL LLM Leaderboards](https://scale.com/leaderboards)**  
    Expert-driven, private evaluations of LLMs across domains like coding and instruction following. Uses curated datasets to prevent overfitting and ensure high-complexity evaluations. 
 
-7. **[Open VLM Leaderboard - Hugging Face](https://huggingface.co/spaces/opencompass/open-vlm-leaderboard)**  
+6. **[Open VLM Leaderboard - Hugging Face](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)**  
    Ranks open-source VLMs using 23 multimodal benchmarks (e.g., MMBench_V11, MathVista). Evaluates models like GPT-4v, Gemini, QwenVLPlus, and LLaVA on image-text tasks.
 
-8. **[Vision LLM Leaderboard - BytePlus](https://www.byteplus.com/en/insights/vision-llm-leaderboard)**  
-   Compares top VLMs based on performance in multimodal tasks like visual question answering and image captioning. Includes evaluation metrics and insights into models’ visual and linguistic capabilities. 
-
-9. **[Video-MME Leaderboard](https://video-mme.github.io/leaderboard)**  
-   Evaluates multimodal LLMs (MLLMs) on video analysis tasks, covering short (<2min), medium (4-15min), and long (30-60min) videos. Includes newly collected, human-annotated data for comprehensive video understanding benchmarks. 
+7. **[Zero-Shot Video Question Answer on Video-MME](https://paperswithcode.com/sota/zero-shot-video-question-answer-on-video-mme-1)**  
+   This task present the results of Zeroshot Question Answer results on TGIF-QA dataset for LLM powered Video Conversational Models.
 
 
