@@ -83,7 +83,7 @@ This list highlights key frameworks and tools for developing, deploying, and man
 6. **[MLflow](https://mlflow.org)**  
    An open-source platform for managing the machine learning lifecycle, including LLMs and VLMs. It supports experiment tracking, model versioning, and deployment, with integrations for LangChain, LlamaIndex, and DSPy. Ideal for reproducible AI workflows.
 
-7. **[Hugging Face Transformers](https://huggingface.co/docs/transformers)**  
+7. **[Hugging Face Transformers](https://huggingface.co/docs/transformers/installation)**  
    A comprehensive library for training, fine-tuning, and deploying LLMs and VLMs. It supports models like BERT, GPT, and CLIP, with tools for NLP, computer vision, and multimodal tasks. Used for research and production-grade AI applications.
 
 8. **[Ollama](https://ollama.com)**  
