@@ -61,4 +61,53 @@ This is a curated list of new and up-to-date leaderboards for Large Language Mod
 7. **[Zero-Shot Video Question Answer on Video-MME](https://paperswithcode.com/sota/zero-shot-video-question-answer-on-video-mme-1)**  
    This task present the results of Zeroshot Question Answer results on TGIF-QA dataset for LLM powered Video Conversational Models.
 
+## Frameworks and Tools for LLMs, VLMs, and Foundation Models (2025)
+
+This list highlights key frameworks and tools for developing, deploying, and managing Large Language Models (LLMs), Vision-Language Models (VLMs), and foundation models.
+
+1. **[LangChain](https://www.langchain.com)**  
+   A versatile framework for building LLM-powered applications. It simplifies prompt chaining, memory management, and integration with external data sources like vector databases and APIs. Used for chatbots, RAG systems, and agent-based workflows.
+
+2. **[LlamaIndex](https://www.llamaindex.ai)**  
+   A data framework designed for connecting LLMs with custom data sources. It excels in data ingestion, indexing, and retrieval for RAG applications, enabling semantic search and context-aware querying. Ideal for document analysis and knowledge base systems.
+
+3. **[n8n](https://n8n.io)**  
+   An open-source, low-code workflow automation platform. It integrates LLMs with external tools and APIs to automate tasks like data processing or chatbot responses. Used for building scalable AI-driven workflows with minimal coding.
+
+4. **[DSPy](https://dspy.ai)**  
+   A framework for programming foundation models by defining tasks rather than crafting prompts. It optimizes pipelines for LLMs using modular components, improving performance in tasks like reasoning and text generation. Suited for developers seeking maintainable codebases.
+
+5. **[Haystack](https://haystack.deepset.ai)**  
+   An open-source framework for building LLM-powered search and RAG applications. It supports semantic search, document retrieval, and question answering, with integrations for Hugging Face, OpenAI, and vector stores like Pinecone. Used for enterprise search systems.
+
+6. **[MLflow](https://mlflow.org)**  
+   An open-source platform for managing the machine learning lifecycle, including LLMs and VLMs. It supports experiment tracking, model versioning, and deployment, with integrations for LangChain, LlamaIndex, and DSPy. Ideal for reproducible AI workflows.
+
+7. **[Hugging Face Transformers](https://huggingface.co/docs/transformers)**  
+   A comprehensive library for training, fine-tuning, and deploying LLMs and VLMs. It supports models like BERT, GPT, and CLIP, with tools for NLP, computer vision, and multimodal tasks. Used for research and production-grade AI applications.
+
+8. **[Ollama](https://ollama.com)**  
+   A lightweight framework for running LLMs locally. It provides a simple API and supports models like Llama 3 and Gemma, enabling developers to build and test AI applications on personal hardware. Perfect for local AI development and prototyping.
+
+9. **[AutoGen](https://microsoft.github.io/autogen)**  
+   A Python-based framework for creating multi-agent LLM systems. It enables agents to collaborate on tasks like data retrieval and code execution, enhancing complex workflows. Used for building autonomous AI agents and research.
+
+10. **[Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel)**  
+   A Microsoft-developed SDK for integrating LLMs into applications. It supports orchestration of AI tasks, memory management, and plugins for connecting to external tools. Used for building scalable AI agents in Python, C#, and Java.
+
+11. **[DeepEval](https://www.deepeval.com)**  
+   A testing framework for evaluating LLM applications. It offers over 14 research-backed metrics to assess RAG pipelines and safety risks, integrating with frameworks like LangChain and LlamaIndex. Used for quality assurance in AI development.
+
+12. **[Flowise](https://flowiseai.com)**  
+   An open-source, low-code platform for building LLM applications. It features a drag-and-drop interface and integrates with LangChain and LlamaIndex, making it accessible for non-coders to create chatbots and RAG systems.
+
+13. **[Langflow](https://www.langflow.io)**  
+   A visual framework for building multi-agent and RAG applications with LLMs. It offers a drag-and-drop interface and supports cloud or self-hosted deployment. Used for rapid prototyping of AI workflows.
+
+14. **[CrewAI](https://www.crewai.com)**  
+   A framework for orchestrating collaborative AI agents powered by LLMs. It simplifies task delegation and agent communication, built on LangChain. Used for automating complex workflows like research or customer support.
+
+15. **[OpenLLM](https://bento.cloud/openllm)**  
+   A platform for deploying and managing open-source LLMs. It integrates with LlamaIndex, LangChain, and Hugging Face, offering scalable solutions for chat, reasoning, and coding tasks. Used for production-grade AI deployments.
+
 
