@@ -101,13 +101,9 @@ This list highlights key frameworks and tools for developing, deploying, and man
 12. **[Flowise](https://flowiseai.com)**  
    An open-source, low-code platform for building LLM applications. It features a drag-and-drop interface and integrates with LangChain and LlamaIndex, making it accessible for non-coders to create chatbots and RAG systems.
 
-13. **[Langflow](https://www.langflow.io)**  
-   A visual framework for building multi-agent and RAG applications with LLMs. It offers a drag-and-drop interface and supports cloud or self-hosted deployment. Used for rapid prototyping of AI workflows.
-
-14. **[CrewAI](https://www.crewai.com)**  
+13. **[CrewAI](https://www.crewai.com)**  
    A framework for orchestrating collaborative AI agents powered by LLMs. It simplifies task delegation and agent communication, built on LangChain. Used for automating complex workflows like research or customer support.
 
-15. **[OpenLLM](https://bento.cloud/openllm)**  
-   A platform for deploying and managing open-source LLMs. It integrates with LlamaIndex, LangChain, and Hugging Face, offering scalable solutions for chat, reasoning, and coding tasks. Used for production-grade AI deployments.
-
+14. **[OpenLLM](https://github.com/bentoml/OpenLLM)**  
+    Run any open-source LLMs (Llama 3.3, Qwen2.5, Phi3 and more) or custom models as OpenAI-compatible APIs with a single command.
 
