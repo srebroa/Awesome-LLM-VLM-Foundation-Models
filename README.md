@@ -1,4 +1,4 @@
-<h1>Awesome-LLM-VLM-Foundation-Models</h1>
+<h1>Awesome-LLM-VLM-Foundation-Models 🚀⭐⭐⭐</h1> 
 <p>Awesome curated list of LLM, VLM and other Foundation Models</p>
 
 <div style="overflow-x:auto;">
