@@ -107,3 +107,6 @@ This list highlights key frameworks and tools for developing, deploying, and man
 14. **[OpenLLM](https://github.com/bentoml/OpenLLM)**  
     Run any open-source LLMs (Llama 3.3, Qwen2.5, Phi3 and more) or custom models as OpenAI-compatible APIs with a single command.
 
+15. **[vLLM](https://github.com/vllm-project/vllm)**  
+    vLLM is an open-source library designed to serve LLMs efficiently and at scale, especially for inference (i.e., running models to generate text). It’s particularly focused on improving latency, throughput, and memory usage when deploying LLMs like LLaMA, Mistral, GPT, and others. Introduces a key innovation called PagedAttention, which is an optimized attention mechanism that reduces memory fragmentation, enables efficient batching and improves throughput and latency
+
