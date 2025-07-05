@@ -231,7 +231,7 @@ Edytuj
 5. **[DeepSeek‑v3‑03‑24](https://github.com/deepseek/deepseek-v3)**  
    Lightweight, open‑source OCR-ready VLM evaluated in 2025 benchmarks.
    
-7. **[TextHawk 2](https://github.com/Yuliang-Liu/TextHawk2)**  
+7. **[TextHawk 2](https://github.com/yuyq96/TextHawk)**  
    Bilingual OCR and grounding VLM showing state‑of‑the‑art across OCRBench, DocVQA, ChartQA, with 16× fewer tokens.
 
 8. **[VISTA‑OCR](https://arxiv.org/abs/2504.03621)**  
