@@ -12,26 +12,25 @@
       <th>Size & Context Window</th>
       <th>Best For / Strengths</th>
       <th>Access & Cost</th>
-      <th>Link</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>GPT‑4.5 “Orion”</td><td>2025-02</td><td>OpenAI</td><td>~12 T params / 128K tokens</td><td>Nuanced conversation, creative writing, lower hallucinations</td><td>ChatGPT Pro/Premium $200 /mo; API: $75/1M in, $150/1M out</td><td>OpenAI</td></tr>
-    <tr><td>2</td><td>GPT‑4.1</td><td>2025-04</td><td>OpenAI</td><td>Large / 1M tokens</td><td>Long-context docs, coding, vision, low latency</td><td>API: input $2, output $8 per 1M tokens; Mini variant cheaper</td><td>OpenAI</td></tr>
-    <tr><td>3</td><td>GPT‑4o (“Omni”)</td><td>2024-05</td><td>OpenAI</td><td>Multimodal / 128K tokens</td><td>Text+image+audio+voice; fast & free-tier use</td><td>Free-tier in ChatGPT; API: $2.50/1M in, $10/1M out</td><td>OpenAI</td></tr>
-    <tr><td>4</td><td>GPT‑4o mini</td><td>2024-07</td><td>OpenAI</td><td>~8 B params / 128K tokens</td><td>Cost-effective multimodal</td><td>ChatGPT replacement; API: $0.15/1M in, $0.60/1M out</td><td>OpenAI</td></tr>
-    <tr><td>5</td><td>o4‑mini‑high / o4‑mini</td><td>2025-04</td><td>OpenAI</td><td>Compact reasoning / multimodal</td><td>STEM, coding, fast reasoning with vision</td><td>API: input $1.10, output $4.40 per 1M tokens</td><td>OpenAI</td></tr>
-    <tr><td>6</td><td>o3‑mini‑high / o3‑mini</td><td>2024</td><td>OpenAI</td><td>Small reasoning models</td><td>Technical/scientific reasoning on a budget</td><td>API: same pricing as o3 & mini models</td><td>OpenAI</td></tr>
-    <tr><td>7</td><td>Llama 4 Maverick</td><td>2025</td><td>Meta AI</td><td>Large Mixture‑of‑Experts</td><td>Coding, reasoning; GPT‑4o‑level</td><td>Open weights (restricted use)</td><td>Meta/HF</td></tr>
-    <tr><td>8</td><td>Llama 4 Scout</td><td>2025</td><td>Meta AI</td><td>Small (fits 1 A100/H100) / 10M tokens</td><td>Generalist, long context small model</td><td>Open weights</td><td>Meta/HF</td></tr>
-    <tr><td>9</td><td>Llama 3.1 405B</td><td>2024</td><td>Meta AI</td><td>405 B params / 128K tokens</td><td>Research, long-context, coding</td><td>Open source</td><td>Meta/HF</td></tr>
-    <tr><td>10</td><td>Claude 3.7 Sonnet</td><td>2024-10</td><td>Anthropic</td><td>~175 B params / 200K tokens</td><td>Extended reasoning & coding</td><td>API (paid via Anthropic)</td><td>Anthropic</td></tr>
-    <tr><td>11</td><td>Gemini 2.5 Pro</td><td>2024-05</td><td>Google DM</td><td>Undisclosed; multimodal / 1M tokens</td><td>Advanced reasoning, multimodal</td><td>API (paid via Google)</td><td>Google</td></tr>
-    <tr><td>12</td><td>Stable LM 2 12B</td><td>2024-04</td><td>Stability AI</td><td>12 B params</td><td>Open model with good benchmarks</td><td>Open source</td><td>Stability</td></tr>
-    <tr><td>13</td><td>Qwen 2.5-VL 32B</td><td>2025-03</td><td>Alibaba</td><td>32 B params; multimodal / 128K tokens</td><td>Vision+language tasks</td><td>Open source (Apache 2.0)</td><td>HuggingFace</td></tr>
-    <tr><td>14</td><td>Mistral Small 3.1</td><td>2025-03</td><td>Mistral AI</td><td>24 B params; 128K tokens</td><td>Image & doc understanding</td><td>Open source (Apache 2.0)</td><td>Mistral/HF</td></tr>
-    <tr><td>15</td><td>Gemma 3 (27B)</td><td>2025-03</td><td>Google DM</td><td>27 B params</td><td>One-GPU efficient model</td><td>Open source</td><td>DeepMind</td></tr>
-    <tr><td>16</td><td>Fox-1 1.6B Instruct</td><td>2024-11</td><td>Fox-1 project</td><td>1.6 B params</td><td>Instruction-following small LLM, conversational</td><td>Open source (Apache 2.0)</td><td>arXiv</td></tr>
+    <tr><td>1</td><td>GPT‑4.5 “Orion”</td><td>2025-02</td><td>OpenAI</td><td>~12 T params / 128K tokens</td><td>Nuanced conversation, creative writing, lower hallucinations</td><td>ChatGPT Pro/Premium $200 /mo; API: $75/1M in, $150/1M out</td></tr>
+    <tr><td>2</td><td>GPT‑4.1</td><td>2025-04</td><td>OpenAI</td><td>Large / 1M tokens</td><td>Long-context docs, coding, vision, low latency</td><td>API: input $2, output $8 per 1M tokens; Mini variant cheaper</td></tr>
+    <tr><td>3</td><td>GPT‑4o (“Omni”)</td><td>2024-05</td><td>OpenAI</td><td>Multimodal / 128K tokens</td><td>Text+image+audio+voice; fast & free-tier use</td><td>Free-tier in ChatGPT; API: $2.50/1M in, $10/1M out</td></tr>
+    <tr><td>4</td><td>GPT‑4o mini</td><td>2024-07</td><td>OpenAI</td><td>~8 B params / 128K tokens</td><td>Cost-effective multimodal</td><td>ChatGPT replacement; API: $0.15/1M in, $0.60/1M out</td></tr>
+    <tr><td>5</td><td>o4‑mini‑high / o4‑mini</td><td>2025-04</td><td>OpenAI</td><td>Compact reasoning / multimodal</td><td>STEM, coding, fast reasoning with vision</td><td>API: input $1.10, output $4.40 per 1M tokens</td></tr>
+    <tr><td>6</td><td>o3‑mini‑high / o3‑mini</td><td>2024</td><td>OpenAI</td><td>Small reasoning models</td><td>Technical/scientific reasoning on a budget</td><td>API: same pricing as o3 & mini models</td></tr>
+    <tr><td>7</td><td>Llama 4 Maverick</td><td>2025</td><td>Meta AI</td><td>Large Mixture‑of‑Experts</td><td>Coding, reasoning; GPT‑4o‑level</td><td>Open weights (restricted use)</td></tr>
+    <tr><td>8</td><td>Llama 4 Scout</td><td>2025</td><td>Meta AI</td><td>Small (fits 1 A100/H100) / 10M tokens</td><td>Generalist, long context small model</td><td>Open weights</td></tr>
+    <tr><td>9</td><td>Llama 3.1 405B</td><td>2024</td><td>Meta AI</td><td>405 B params / 128K tokens</td><td>Research, long-context, coding</td><td>Open source</td></tr>
+    <tr><td>10</td><td>Claude 3.7 Sonnet</td><td>2024-10</td><td>Anthropic</td><td>~175 B params / 200K tokens</td><td>Extended reasoning & coding</td><td>API (paid via Anthropic)</td></tr>
+    <tr><td>11</td><td>Gemini 2.5 Pro</td><td>2024-05</td><td>Google DM</td><td>Undisclosed; multimodal / 1M tokens</td><td>Advanced reasoning, multimodal</td><td>API (paid via Google)</td></tr>
+    <tr><td>12</td><td>Stable LM 2 12B</td><td>2024-04</td><td>Stability AI</td><td>12 B params</td><td>Open model with good benchmarks</td><td>Open source</td></tr>
+    <tr><td>13</td><td>Qwen 2.5-VL 32B</td><td>2025-03</td><td>Alibaba</td><td>32 B params; multimodal / 128K tokens</td><td>Vision+language tasks</td><td>Open source (Apache 2.0)</td></tr>
+    <tr><td>14</td><td>Mistral Small 3.1</td><td>2025-03</td><td>Mistral AI</td><td>24 B params; 128K tokens</td><td>Image & doc understanding</td><td>Open source (Apache 2.0)</td></tr>
+    <tr><td>15</td><td>Gemma 3 (27B)</td><td>2025-03</td><td>Google DM</td><td>27 B params</td><td>One-GPU efficient model</td><td>Open source</td></tr>
+    <tr><td>16</td><td>Fox-1 1.6B Instruct</td><td>2024-11</td><td>Fox-1 project</td><td>1.6 B params</td><td>Instruction-following small LLM, conversational</td><td>Open source (Apache 2.0)</td></tr>
   </tbody>
 </table>
 </div>
@@ -191,53 +190,52 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 ## 🖼️ Vision‑Language Model (VLM) Zoo
 
 1. **[Qwen 2.5 VL (7B / 72B)](https://github.com/QwenLM/Qwen)**  
-   Multimodal VLM from Alibaba with dynamic resolution, video input, object localization and support for ~29 languages. Top open‑source performer in OCR and agentic workflows (Jan 2025) :contentReference[oaicite:1]{index=1}.
+   Multimodal VLM from Alibaba with dynamic resolution, video input, object localization and support for ~29 languages. Top open‑source performer in OCR and agentic workflows.
 
 2. **[Gemma 3 (4B–27B)](https://github.com/google-research/gemma)**  
-   Google’s open multimodal model with SigLIP image encoder, excels in multilingual captioning and VQA; strong 128k context performance (Mar 2025) :contentReference[oaicite:2]{index=2}.
+   Google’s open multimodal model with SigLIP image encoder, excels in multilingual captioning and VQA; strong 128k context performance.
 
 3. **[PaliGemma](https://huggingface.co/blog/paligemma)**  
-   Compact Gᴇᴍᴍᴀ‑2 B‑based VLM combining SigLIP visual encoder with strong captioning, segmentation, and VQA transferability (May 2024) :contentReference[oaicite:3]{index=3}.
+   Compact Gᴇᴍᴍᴀ‑2 B‑based VLM combining SigLIP visual encoder with strong captioning, segmentation, and VQA transferability.
 
 4. **[Llama 3.2 Vision (11B/90B)](https://github.com/facebook/llama3)**  
-   Vision‑adapted Llama model with excellent OCR, document understanding, VQA, and 128k token context (Jun 2025) :contentReference[oaicite:4]{index=4}.
+   Vision‑adapted Llama model with excellent OCR, document understanding, VQA, and 128k token context.
 
 5. **[Phi‑4 Multimodal](https://github.com/microsoft/phi4)**  
-   Microsoft’s VLM supporting vision‑language tasks with MIT license and edge‑friendly capabilities (2025) :contentReference[oaicite:5]{index=5}.
+   Microsoft’s VLM supporting vision‑language tasks with MIT license and edge‑friendly capabilities.
 
 6. **[DeepSeek‑VL](https://github.com/deepseek/deepseek-vl)**  
-   Open‑source VLM optimized for scientific reasoning and compact deployment (Jul 2025) :contentReference[oaicite:6]{index=6}.
+   Open‑source VLM optimized for scientific reasoning and compact deployment.
 
 7. **[CogVLM](https://github.com/tencent-cogv/cogvlm)**  
-   Strong-performing model in VQA and vision-centric tasks (Oct 2023) :contentReference[oaicite:7]{index=7}.
+   Strong-performing model in VQA and vision-centric tasks.
 
 8. **[BakLLaVA](https://github.com/laion/BakLLaVA)**  
-   LAION‑developed LMM combining Mistral 7B with LLaVA architecture for efficient VQA pipelines (Oct 2023) :contentReference[oaicite:8]{index=8}.
+   LAION‑developed LMM combining Mistral 7B with LLaVA architecture for efficient VQA pipelines.
 markdown
 Kopiuj
 Edytuj
 ## 📄 OCR Model Zoo
 
 1. **[Qwen 2.5 VL (32B / 72B)](https://github.com/QwenLM/Qwen)**  
-   State‑of‑the‑art open OCR performance (~75% accuracy), outperforms even Mistral‑OCR; excels in document, video, and multilingual text extraction (2025) :contentReference[oaicite:9]{index=9}.
-
+   State‑of‑the‑art open OCR performance (~75% accuracy), outperforms even Mistral‑OCR; excels in document, video, and multilingual text extraction. 
 2. **[Mistral‑OCR](https://github.com/mistralai/mistral-ocr)**  
-   Purpose‑trained OCR variant of Mistral, delivering ~72.2% accuracy on structured document benchmarks (2025) :contentReference[oaicite:10]{index=10}.
+   Purpose‑trained OCR variant of Mistral, delivering ~72.2% accuracy on structured document benchmarks.
 
 3. **[Llama 3.2 Vision (11B / 90B)](https://github.com/facebook/llama3)**  
-   Strong OCR and document understanding capabilities, part of the top open VLMs (2025) :contentReference[oaicite:11]{index=11}.
+   Strong OCR and document understanding capabilities, part of the top open VLMs.
 
 4. **[Gemma 3 27B](https://github.com/google-research/gemma)**  
-   Offers competitive OCR performance through its vision‑language architecture (2025) :contentReference[oaicite:12]{index=12}.
+   Offers competitive OCR performance through its vision‑language architecture.
 
 5. **[DeepSeek‑v3‑03‑24](https://github.com/deepseek/deepseek-v3)**  
-   Lightweight, open‑source OCR-ready VLM evaluated in 2025 benchmarks :contentReference[oaicite:13]{index=13}.
+   Lightweight, open‑source OCR-ready VLM evaluated in 2025 benchmarks.
+   
+7. **[TextHawk 2](https://github.com/Yuliang-Liu/TextHawk2)**  
+   Bilingual OCR and grounding VLM showing state‑of‑the‑art across OCRBench, DocVQA, ChartQA, with 16× fewer tokens.
 
-6. **[TextHawk 2](https://github.com/Yuliang-Liu/TextHawk2)**  
-   Bilingual OCR and grounding VLM showing state‑of‑the‑art across OCRBench, DocVQA, ChartQA, with 16× fewer tokens (Oct 2024) :contentReference[oaicite:14]{index=14}.
+8. **[VISTA‑OCR](https://arxiv.org/abs/2504.03621)**  
+   New lightweight generative OCR model unifying detection and recognition with only 150M params; interactive and high‑accuracy.
 
-7. **[VISTA‑OCR](https://arxiv.org/abs/2504.03621)**  
-   New lightweight generative OCR model unifying detection and recognition with only 150M params; interactive and high‑accuracy (Apr 2025) :contentReference[oaicite:15]{index=15}.
-
-8. **[PP‑DocBee](https://github.com/PaddlePaddle/PaddleMIX)**  
-   Multimodal document understanding model with superior performance on English/Chinese benchmarks (Mar 2025) :contentReference[oaicite:16]{index=16}.
+9. **[PP‑DocBee](https://github.com/PaddlePaddle/PaddleMIX)**  
+   Multimodal document understanding model with superior performance on English/Chinese benchmarks.
