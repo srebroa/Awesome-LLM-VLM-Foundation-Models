@@ -218,17 +218,18 @@ Edytuj
 ## 📄 OCR Model Zoo
 
 1. **[Qwen 2.5 VL (32B / 72B)](https://github.com/QwenLM/Qwen)**  
-   State‑of‑the‑art open OCR performance (~75% accuracy), outperforms even Mistral‑OCR; excels in document, video, and multilingual text extraction. 
-2. **[Mistral‑OCR](https://github.com/mistralai/mistral-ocr)**  
+   State‑of‑the‑art open OCR performance (~75% accuracy), outperforms even Mistral‑OCR; excels in document, video, and multilingual text extraction.
+   
+3. **[Mistral‑OCR](https://github.com/mistralai/mistral-ocr)**  
    Purpose‑trained OCR variant of Mistral, delivering ~72.2% accuracy on structured document benchmarks.
 
-3. **[Llama 3.2 Vision (11B / 90B)](https://github.com/facebook/llama3)**  
+4. **[Llama 3.2 Vision (11B / 90B)](https://github.com/facebook/llama3)**  
    Strong OCR and document understanding capabilities, part of the top open VLMs.
 
-4. **[Gemma 3 27B](https://github.com/google-research/gemma)**  
+5. **[Gemma 3 27B](https://github.com/google-research/gemma)**  
    Offers competitive OCR performance through its vision‑language architecture.
 
-5. **[DeepSeek‑v3‑03‑24](https://github.com/deepseek/deepseek-v3)**  
+6. **[DeepSeek‑v3‑03‑24](https://github.com/deepseek-ai/DeepSeek-V3)**  
    Lightweight, open‑source OCR-ready VLM evaluated in 2025 benchmarks.
    
 7. **[TextHawk 2](https://github.com/yuyq96/TextHawk)**  
