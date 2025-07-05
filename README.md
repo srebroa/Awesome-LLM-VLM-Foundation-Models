@@ -187,3 +187,57 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
     A library for visualizing and interpreting transformer internals. Helps researchers understand model behavior neuron-by-neuron.
 
 ---
+
+## 🖼️ Vision‑Language Model (VLM) Zoo
+
+1. **[Qwen 2.5 VL (7B / 72B)](https://github.com/QwenLM/Qwen)**  
+   Multimodal VLM from Alibaba with dynamic resolution, video input, object localization and support for ~29 languages. Top open‑source performer in OCR and agentic workflows (Jan 2025) :contentReference[oaicite:1]{index=1}.
+
+2. **[Gemma 3 (4B–27B)](https://github.com/google-research/gemma)**  
+   Google’s open multimodal model with SigLIP image encoder, excels in multilingual captioning and VQA; strong 128k context performance (Mar 2025) :contentReference[oaicite:2]{index=2}.
+
+3. **[PaliGemma](https://huggingface.co/blog/paligemma)**  
+   Compact Gᴇᴍᴍᴀ‑2 B‑based VLM combining SigLIP visual encoder with strong captioning, segmentation, and VQA transferability (May 2024) :contentReference[oaicite:3]{index=3}.
+
+4. **[Llama 3.2 Vision (11B/90B)](https://github.com/facebook/llama3)**  
+   Vision‑adapted Llama model with excellent OCR, document understanding, VQA, and 128k token context (Jun 2025) :contentReference[oaicite:4]{index=4}.
+
+5. **[Phi‑4 Multimodal](https://github.com/microsoft/phi4)**  
+   Microsoft’s VLM supporting vision‑language tasks with MIT license and edge‑friendly capabilities (2025) :contentReference[oaicite:5]{index=5}.
+
+6. **[DeepSeek‑VL](https://github.com/deepseek/deepseek-vl)**  
+   Open‑source VLM optimized for scientific reasoning and compact deployment (Jul 2025) :contentReference[oaicite:6]{index=6}.
+
+7. **[CogVLM](https://github.com/tencent-cogv/cogvlm)**  
+   Strong-performing model in VQA and vision-centric tasks (Oct 2023) :contentReference[oaicite:7]{index=7}.
+
+8. **[BakLLaVA](https://github.com/laion/BakLLaVA)**  
+   LAION‑developed LMM combining Mistral 7B with LLaVA architecture for efficient VQA pipelines (Oct 2023) :contentReference[oaicite:8]{index=8}.
+markdown
+Kopiuj
+Edytuj
+## 📄 OCR Model Zoo
+
+1. **[Qwen 2.5 VL (32B / 72B)](https://github.com/QwenLM/Qwen)**  
+   State‑of‑the‑art open OCR performance (~75% accuracy), outperforms even Mistral‑OCR; excels in document, video, and multilingual text extraction (2025) :contentReference[oaicite:9]{index=9}.
+
+2. **[Mistral‑OCR](https://github.com/mistralai/mistral-ocr)**  
+   Purpose‑trained OCR variant of Mistral, delivering ~72.2% accuracy on structured document benchmarks (2025) :contentReference[oaicite:10]{index=10}.
+
+3. **[Llama 3.2 Vision (11B / 90B)](https://github.com/facebook/llama3)**  
+   Strong OCR and document understanding capabilities, part of the top open VLMs (2025) :contentReference[oaicite:11]{index=11}.
+
+4. **[Gemma 3 27B](https://github.com/google-research/gemma)**  
+   Offers competitive OCR performance through its vision‑language architecture (2025) :contentReference[oaicite:12]{index=12}.
+
+5. **[DeepSeek‑v3‑03‑24](https://github.com/deepseek/deepseek-v3)**  
+   Lightweight, open‑source OCR-ready VLM evaluated in 2025 benchmarks :contentReference[oaicite:13]{index=13}.
+
+6. **[TextHawk 2](https://github.com/Yuliang-Liu/TextHawk2)**  
+   Bilingual OCR and grounding VLM showing state‑of‑the‑art across OCRBench, DocVQA, ChartQA, with 16× fewer tokens (Oct 2024) :contentReference[oaicite:14]{index=14}.
+
+7. **[VISTA‑OCR](https://arxiv.org/abs/2504.03621)**  
+   New lightweight generative OCR model unifying detection and recognition with only 150M params; interactive and high‑accuracy (Apr 2025) :contentReference[oaicite:15]{index=15}.
+
+8. **[PP‑DocBee](https://github.com/PaddlePaddle/PaddleMIX)**  
+   Multimodal document understanding model with superior performance on English/Chinese benchmarks (Mar 2025) :contentReference[oaicite:16]{index=16}.
