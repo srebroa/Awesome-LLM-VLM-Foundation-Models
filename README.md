@@ -180,14 +180,17 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 
 ## 🎨 Multimodal & Vision-Language Models
 
-28. **[OpenMMLab Multimodal](https://github.com/open-mmlab/multimodal)**  
-    A collection of open-source models and tools for multimodal tasks like image captioning, VQA, and visual grounding.
+28. **[OpenMMLab Multimoda-GPTl](https://github.com/open-mmlab/Multimodal-GPT)**  
+    Based on the open-source multi-modal model OpenFlamingo create various visual instruction data with open datasets, including VQA, Image Captioning, Visual Reasoning, Text OCR, and Visual Dialogue.
+    
+29. **[OpenMMLab MMagic](https://github.com/open-mmlab/mmagic)**  
+    Multimodal Advanced, Generative, and Intelligent Creation (MMagic).
 
 ---
 
 ## 🧠 Interpretability & Analysis
 
-29. **[Transformer Lens](https://github.com/neelnanda-io/TransformerLens)**  
+30. **[Transformer Lens](https://github.com/neelnanda-io/TransformerLens)**  
     A library for visualizing and interpreting transformer internals. Helps researchers understand model behavior neuron-by-neuron.
 
 ---
