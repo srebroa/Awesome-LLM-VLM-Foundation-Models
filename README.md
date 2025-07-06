@@ -246,3 +246,20 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 
 9. **[PP‑DocBee](https://github.com/PaddlePaddle/PaddleMIX)**  
    Multimodal document understanding model with superior performance on English/Chinese benchmarks.
+
+# Papers 📑 ⭐
+| No. | Title                                                                                | Authors                      | Journal Name                                         | Year |
+| --- | ------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------------------------- | ---- |
+| 1   | Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models     | Yukang Yang, et al.          | [arXiv:2502.20332](https://arxiv.org/abs/2502.20332) | 2025 |
+| 2   | Thought Crime: Backdoors and Emergent Misalignment in Reasoning Models               | James Chua, et al.           | [arXiv:2506.13206](https://arxiv.org/abs/2506.13206) | 2025 |
+| 3   | Emergent Response Planning in Large Language Models                                  | Zhichen Dong, et al.         | [arXiv:2502.06258](https://arxiv.org/abs/2502.06258) | 2025 |
+| 4   | Emergent Abilities in Large Language Models: A Survey                                | Leonardo Berti, et al.       | [arXiv:2503.05788](https://arxiv.org/abs/2503.05788) | 2025 |
+| 5   | LIMO: Less Is More for Reasoning                                                     | Yixin Ye, et al.             | [arXiv:2502.03387](https://arxiv.org/abs/2502.03387) | 2025 |
+| 6   | An Introduction to Vision-Language Modeling                                          | Florian Bordes, et al.       | [arXiv:2405.17247](https://arxiv.org/abs/2405.17247) | 2024 |
+| 7   | What Matters When Building Vision-Language Models?                                   | Hugo Laurençon, et al.       | [arXiv:2405.02246](https://arxiv.org/abs/2405.02246) | 2024 |
+| 8   | Building and better understanding vision-language models: insights and future directions           | Hugo Laurençon, et al.       | [arXiv:2408.12637](https://arxiv.org/abs/2408.12637) | 2024 |
+| 9   | DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding | Zhiyu Wu, et al.             | [arXiv:2412.10302](https://arxiv.org/abs/2412.10302) | 2024 |
+| 10  | Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution    | Peng Wang, et al.            | [arXiv:2409.12191](https://arxiv.org/abs/2409.12191) | 2024 |
+| 11  | PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter                        | Junfei Xiao, et al.          | [arXiv:2402.10896](https://arxiv.org/abs/2402.10896) | 2024 |
+| 12  | Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving       | Akshay Gopalkrishnan, et al. | [arXiv:2403.19838](https://arxiv.org/abs/2403.19838) | 2024 |
+
