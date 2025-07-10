@@ -247,6 +247,21 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 9. **[PP‑DocBee](https://github.com/PaddlePaddle/PaddleMIX)**  
    Multimodal document understanding model with superior performance on English/Chinese benchmarks.
 
+## 📄 Medical LLMs, VLMs and MLLMs (multimodal)
+
+| Model                                                                 | Year       | Company/Org             | Used for                                                                                          |
+|------------------------------------------------------------------------|------------|------------------------------|---------------------------------------------------------------------------------------------------|
+| **[MedGemma](https://deepmind.google/models/gemma/medgemm/)**              | 2025       | Google DeepMind              | OCR, image captioning, general vision NLP (3B–28B parameters)                                     |
+| **[MedSigLIP](https://github.com/google-health/medsiglip)** | 2025       | Google DeepMind              | Scalable multimodal medical reasoning                                  |
+| **[Med‑Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini)** | 2024   | Google DeepMind              | Multimodal medical applications                                           |
+| **[LLaVA-Med](https://github.com/microsoft/LLaVA-Med)** | 2024   | Microsoft              | Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities                                           |
+| **[CONCH](https://github.com/mahmoodlab/CONCH)** | 2024   | Mahmood Lab + Harvard Medical School               | Vision-Language Pathology Foundation Model - Nature Medicine                                           |
+| **[BioMistral‑7B](https://huggingface.co/BioMistral/BioMistral-7B)**      | 2024       | CNRS + Mistral               | Medical-domain fine-tuned LLM on PubMed (7B parameters)                                           |
+| **[BioMedLM 2.7B](https://huggingface.co/stanford-crfm/BioMedLM)**      | 2024       | Stanford CRFM+MosaicML              | Medical-domain  trained exclusively on biomedical abstracts and papers from The Pile                                           |
+| **[Med‑PaLM M](https://sites.research.google/med-palm)**               | 2022-2023       | Google Research              | Multimodal medical Q&A with image and text input                      |
+
+
+
 # Papers 📑 ⭐
 | No. | Title                                                                                | Authors                      | Journal Name                                         | Year |
 | --- | ------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------------------------- | ---- |
