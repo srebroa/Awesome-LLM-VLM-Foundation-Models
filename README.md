@@ -251,7 +251,7 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 
 | Model                                                                 | Year       | Company/Org             | Used for                                                                                          |
 |------------------------------------------------------------------------|------------|------------------------------|---------------------------------------------------------------------------------------------------|
-| **[MedGemma](https://deepmind.google/models/gemma/medgemm/)**              | 2025       | Google DeepMind              | OCR, image captioning, general vision NLP (3B–28B parameters)                                     |
+| **[MedGemma](https://deepmind.google/models/gemma/medgemma)**              | 2025       | Google DeepMind              | OCR, image captioning, general vision NLP (3B–28B parameters)                                     |
 | **[MedSigLIP](https://github.com/google-health/medsiglip)** | 2025       | Google DeepMind              | Scalable multimodal medical reasoning                                  |
 | **[Med‑Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini)** | 2024   | Google DeepMind              | Multimodal medical applications                                           |
 | **[LLaVA-Med](https://github.com/microsoft/LLaVA-Med)** | 2024   | Microsoft              | Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities                                           |
