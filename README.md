@@ -31,10 +31,11 @@
     <tr><td>14</td><td>Mistral Small 3.1</td><td>2025-03</td><td>Mistral AI</td><td>24 B params; 128K tokens</td><td>Image & doc understanding</td><td>Open source (Apache 2.0)</td></tr>
     <tr><td>15</td><td>Gemma 3 (27B)</td><td>2025-03</td><td>Google DM</td><td>27 B params</td><td>One-GPU efficient model</td><td>Open source</td></tr>
     <tr><td>16</td><td>Fox-1 1.6B Instruct</td><td>2024-11</td><td>Fox-1 project</td><td>1.6 B params</td><td>Instruction-following small LLM, conversational</td><td>Open source (Apache 2.0)</td></tr>
-    <tr><td>17</td><td>xAI Grok 3</td><td>2025-02</td><td>xAI (Elon Musk)</td><td>Unknown (Chat-focused)</td><td>Conversational AI, Twitter/X integration</td><td>Proprietary (likely X Premium)</td></tr>
+    <tr><td>17</td><td>Grok 3</td><td>2025-02</td><td>xAI (Elon Musk)</td><td>Unknown (Chat-focused)</td><td>Conversational AI, Twitter/X integration</td><td>Proprietary (likely X Premium)</td></tr>
     <tr><td>18</td><td>DeepSeek R1</td><td>2025</td><td>DeepSeek AI</td><td>Reasoning-focused</td><td>Reasoning tasks, competitive with GPT‑4.5</td><td>Open weights</td></tr>
     <tr><td>19</td><td>Cerebras Qwen3-32B</td><td>2025-05</td><td>Cerebras</td><td>32 B params</td><td>High-speed reasoning</td><td>Open source (Apache 2.0)</td></tr>
-    <tr><td>20</td><td>GPT‑5</td><td>TBD (Expected 2025)</td><td>OpenAI</td><td>Unknown</td><td>Chain-of-thought, AGI-aligned reasoning</td><td>Not yet released</td></tr>
+    <tr><td>20</td><td>Grok 4</td><td>2025-07</td><td>xAI (Elon Musk)</td><td>~2.4T params / 260K tokens</td><td>Advanced reasoning, coding (Grok 4 Code), multimodal, real-time data</td><td>SuperGrok $30/mo, Heavy $300/mo; API: $3/1M in, $15/1M out; X Premium+ access</td></tr>
+    <tr><td>21</td><td>GPT‑5</td><td>TBD (Expected 2025)</td><td>OpenAI</td><td>Unknown</td><td>Chain-of-thought, AGI-aligned reasoning</td><td>Not yet released</td></tr>
   </tbody>
 </table>
 </div>
