@@ -199,28 +199,31 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 
 ## 🖼️ Vision‑Language Model (VLM) Zoo
 
-1. **[Qwen 2.5 VL (7B / 72B)](https://github.com/QwenLM/Qwen)**  
+1. **[GLM-4.1V-9B-Thinking](https://github.com/THUDM/GLM-4.1V-Thinking), [🤗 HF](https://huggingface.co/THUDM/GLM-4.1V-9B-Thinking) - MIT License 🚀**  
+  Open-source VLM from THUDM, excelling in multimodal reasoning with support for 64k context, 4K image processing, and bilingual (English/Chinese) capabilities. It outperforms many models of similar size and rivals larger models like Qwen2.5-VL-72B on 18/28 benchmarks, including STEM and long document understanding.
+   
+2. **[Qwen 2.5 VL (7B / 72B)](https://github.com/QwenLM/Qwen)**  
    Multimodal VLM from Alibaba with dynamic resolution, video input, object localization and support for ~29 languages. Top open‑source performer in OCR and agentic workflows.
 
-2. **[Gemma 3 (4B–27B)](https://deepmind.google/models/gemma/gemma-3)**  
+3. **[Gemma 3 (4B–27B)](https://deepmind.google/models/gemma/gemma-3)**  
    Google’s open multimodal model with SigLIP image encoder, excels in multilingual captioning and VQA; strong 128k context performance.
 
-3. **[PaliGemma](https://huggingface.co/blog/paligemma)**  
+4. **[PaliGemma](https://huggingface.co/blog/paligemma)**  
    Compact Gᴇᴍᴍᴀ‑2 B‑based VLM combining SigLIP visual encoder with strong captioning, segmentation, and VQA transferability.
 
-4. **[Llama 3.2 Vision (11B/90B)](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices)**  
+5. **[Llama 3.2 Vision (11B/90B)](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices)**  
    Vision‑adapted Llama model with excellent OCR, document understanding, VQA, and 128k token context.
 
-5. **[Phi‑4 Multimodal](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)**  
+6. **[Phi‑4 Multimodal](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)**  
    Microsoft’s VLM supporting vision‑language tasks with MIT license and edge‑friendly capabilities.
 
-6. **[DeepSeek‑VL](https://github.com/deepseek-ai/DeepSeek-VL)**  
+7. **[DeepSeek‑VL](https://github.com/deepseek-ai/DeepSeek-VL)**  
    Open‑source VLM optimized for scientific reasoning and compact deployment.
 
-7. **[CogVLM](https://github.com/THUDM/CogVLM)**  
+8. **[CogVLM](https://github.com/THUDM/CogVLM)**  
    Strong-performing model in VQA and vision-centric tasks.
 
-8. **[BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA)**  
+9. **[BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA)**  
    LAION‑Ontocord-Skunkworks OSS AI group LMM combining Mistral 7B with LLaVA architecture for efficient VQA pipelines.
 
 ## 📄 OCR Model Zoo
