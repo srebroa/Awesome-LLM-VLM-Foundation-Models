@@ -35,7 +35,8 @@
     <tr><td>18</td><td>DeepSeek R1</td><td>2025</td><td>DeepSeek AI</td><td>Reasoning-focused</td><td>Reasoning tasks, competitive with GPT‑4.5</td><td>Open weights</td></tr>
     <tr><td>19</td><td>Cerebras Qwen3-32B</td><td>2025-05</td><td>Cerebras</td><td>32 B params</td><td>High-speed reasoning</td><td>Open source (Apache 2.0)</td></tr>
     <tr><td>20</td><td>Grok 4</td><td>2025-07</td><td>xAI (Elon Musk)</td><td>~2.4T params / 260K tokens</td><td>Advanced reasoning, coding (Grok 4 Code), multimodal, real-time data</td><td>SuperGrok $30/mo, Heavy $300/mo; API: $3/1M in, $15/1M out; X Premium+ access</td></tr>
-    <tr><td>21</td><td>GPT‑5</td><td>TBD (Expected 2025)</td><td>OpenAI</td><td>Unknown</td><td>Chain-of-thought, AGI-aligned reasoning</td><td>Not yet released</td></tr>
+    <tr><td>21</td><td><a href="https://github.com/MoonshotAI/Kimi-K2">Kimi K2</a></td><td>2025-07</td><td>Moonshot AI</td><td>1T params (32B active) / 128K tokens</td><td>Mixture-of-experts (MoE). Agentic intelligence, coding, reasoning, tool use</td><td>Open source (Modified MIT); API: $0.15/1M in, $2.50/1M out</td></tr>
+    <tr><td>22</td><td>GPT‑5</td><td>TBD (Expected 2025)</td><td>OpenAI</td><td>Unknown</td><td>Chain-of-thought, AGI-aligned reasoning</td><td>Not yet released</td></tr>
   </tbody>
 </table>
 </div>
