@@ -231,7 +231,7 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 1. **[OCRFlux](https://github.com/chatdoc-com/OCRFlux)**  
    OCRFlux is a multimodal large language model based toolkit for converting PDFs and images into clean, readable, plain Markdown text. A 3B parameter model that can run on a single NVIDIA 3090 GPU, making it accessible for local deployment.
    
-2. **[Llama-3.1-Nemotron-Nano-VL-8B-V1](https://github.com/QwenLM/Qwen),  [🤗 HF](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1)**  
+2. **[Llama-3.1-Nemotron-Nano-VL-8B-V1](https://build.nvidia.com/nvidia/llama-3.1-nemotron-nano-vl-8b-v1/modelcard),  [🤗 HF](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1)**  
   Llama-Nemotron-Nano-VL-8B-V1 (by NVIDIA) is a leading document intelligence vision language model (VLMs) that enables the ability to query and summarize images and video from the physical or virtual world.
    
 3. **[Qwen 2.5 VL (32B / 72B)](https://github.com/QwenLM/Qwen)**  
