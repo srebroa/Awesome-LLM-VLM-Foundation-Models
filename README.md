@@ -289,3 +289,17 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 | 11  | PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter                        | Junfei Xiao, et al.          | [arXiv:2402.10896](https://arxiv.org/abs/2402.10896) | 2024 |
 | 12  | Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving       | Akshay Gopalkrishnan, et al. | [arXiv:2403.19838](https://arxiv.org/abs/2403.19838) | 2024 |
 
+# Conferences & Papers 🥇 📑 ⭐
+1. **[CVPR](https://cvpr.thecvf.com) - IEEE / CVF Computer Vision and Pattern Recognition Conference**
+   * [2025 Accepted Papers](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)
+   * [2025 Posters](https://cvpr2025.vizhub.ai)  
+    
+2. **[NeurIPS](https://neurips.cc) - Conference on Neural Information Processing Systems**
+   
+3. **[ICLR](https://iclr.cc/) - International Conference on Learning Representations**
+   * [2025 Accepted Papers](https://iclr.cc/virtual/2025/papers.html?filter=topic&search=)
+   * [2025 Posters](https://iclr2025.vizhub.ai/)
+  
+4. **[ACL](https://aclanthology.org/venues/acl/) - Association for Computational Linguistics**
+  
+
