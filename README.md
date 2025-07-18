@@ -228,28 +228,34 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 
 ## 📄 OCR Model Zoo
 
-1. **[Qwen 2.5 VL (32B / 72B)](https://github.com/QwenLM/Qwen)**  
+1. **[OCRFlux](https://github.com/chatdoc-com/OCRFlux)**  
+   OCRFlux is a multimodal large language model based toolkit for converting PDFs and images into clean, readable, plain Markdown text. A 3B parameter model that can run on a single NVIDIA 3090 GPU, making it accessible for local deployment.
+   
+2. **[Llama-3.1-Nemotron-Nano-VL-8B-V1](https://github.com/QwenLM/Qwen),  [🤗 HF](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-VL-8B-V1)**  
+  Llama-Nemotron-Nano-VL-8B-V1 (by NVIDIA) is a leading document intelligence vision language model (VLMs) that enables the ability to query and summarize images and video from the physical or virtual world.
+   
+3. **[Qwen 2.5 VL (32B / 72B)](https://github.com/QwenLM/Qwen)**  
    State‑of‑the‑art open OCR performance (~75% accuracy), outperforms even Mistral‑OCR; excels in document, video, and multilingual text extraction.
    
-3. **[Mistral‑OCR](https://mistral.ai/news/mistral-ocr)**  
+4. **[Mistral‑OCR](https://mistral.ai/news/mistral-ocr)**  
    Purpose‑trained OCR variant of Mistral, delivering ~72.2% accuracy on structured document benchmarks.
 
-4. **[Llama 3.2 Vision (11B / 90B)](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices)**  
+5. **[Llama 3.2 Vision (11B / 90B)](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices)**  
    Strong OCR and document understanding capabilities, part of the top open VLMs.
 
-5. **[Gemma 3 27B](https://deepmind.google/models/gemma/gemma-3)**  
+6. **[Gemma 3 27B](https://deepmind.google/models/gemma/gemma-3)**  
    Offers competitive OCR performance through its vision‑language architecture.
 
-6. **[DeepSeek‑v3‑03‑24](https://github.com/deepseek-ai/DeepSeek-V3)**  
+7. **[DeepSeek‑v3‑03‑24](https://github.com/deepseek-ai/DeepSeek-V3)**  
    Lightweight, open‑source OCR-ready VLM evaluated in 2025 benchmarks.
    
-7. **[TextHawk 2](https://github.com/yuyq96/TextHawk)**  
+8. **[TextHawk 2](https://github.com/yuyq96/TextHawk)**  
    Bilingual OCR and grounding VLM showing state‑of‑the‑art across OCRBench, DocVQA, ChartQA, with 16× fewer tokens.
 
-8. **[VISTA‑OCR](https://arxiv.org/abs/2504.03621)**  
+9. **[VISTA‑OCR](https://arxiv.org/abs/2504.03621)**  
    New lightweight generative OCR model unifying detection and recognition with only 150M params; interactive and high‑accuracy.
 
-9. **[PP‑DocBee](https://github.com/PaddlePaddle/PaddleMIX)**  
+10. **[PP‑DocBee](https://github.com/PaddlePaddle/PaddleMIX)**  
    Multimodal document understanding model with superior performance on English/Chinese benchmarks.
 
 ## 📄 Medical LLMs, VLMs and MLLMs (multimodal)
