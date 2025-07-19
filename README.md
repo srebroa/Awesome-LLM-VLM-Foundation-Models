@@ -92,107 +92,113 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
 
 ## 🔍 Retrieval-Augmented Generation (RAG) & Semantic Search
 
-6. **[Haystack](https://haystack.deepset.ai)**  
+1. **[Haystack](https://haystack.deepset.ai)**  
    An open-source framework for building LLM-powered search and RAG applications. It supports semantic search, document retrieval, and question answering, with integrations for Hugging Face, OpenAI, and vector stores like Pinecone. Used for enterprise search systems.
 
-7. **[Chroma](https://github.com/chroma-core/chroma)**  
+2. **[Chroma](https://github.com/chroma-core/chroma)**  
    An open-source embedding database optimized for managing and searching vector embeddings. Commonly used for semantic search and RAG pipelines with LangChain or LlamaIndex.
 
-8. **[Jina](https://jina.ai)**  
+3. **[Jina](https://jina.ai)**  
    A scalable cloud-native framework for multimodal search and neural semantic retrieval. Supports building RAG pipelines with images, text, and more.
 
-9. **[Qdrant](https://github.com/qdrant/qdrant)**  
+4. **[Qdrant](https://github.com/qdrant/qdrant)**  
    An open-source vector search engine for storing and querying embeddings at scale. Built for semantic search, recommendation engines, and RAG applications.
 
 ---
 
 ## 🚀 Model Serving & Deployment
 
-10. **[Ollama](https://ollama.com)**  
+1. **[Ollama](https://ollama.com)**  
     A lightweight framework for running LLMs locally. It provides a simple API and supports models like Llama 3 and Gemma, enabling developers to build and test AI applications on personal hardware. Perfect for local AI development and prototyping.
 
-11. **[OpenLLM](https://github.com/bentoml/OpenLLM)**  
+2. **[OpenLLM](https://github.com/bentoml/OpenLLM)**  
     Run any open-source LLMs (Llama 3.3, Qwen2.5, Phi3 and more) or custom models as OpenAI-compatible APIs with a single command.
 
-12. **[vLLM](https://github.com/vllm-project/vllm)**  
+3. **[vLLM](https://github.com/vllm-project/vllm)**  
     An open-source library designed to serve LLMs efficiently and at scale, especially for inference. Uses PagedAttention to optimize memory usage, batching, and throughput.
 
-13. **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)**  
+4. **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)**  
     Hugging Face’s optimized inference server for deploying large Transformer models with low latency and high throughput.
 
-14. **[FastChat](https://github.com/lm-sys/FastChat)**  
+5. **[FastChat](https://github.com/lm-sys/FastChat)**  
     A powerful open-source framework to serve and chat with LLMs interactively. Includes a web UI, REST API, and support for various model families like Vicuna and LLaMA.
 
 ---
 
 ## ⚙️ ML Workflow Automation & Management
 
-15. **[MLflow](https://mlflow.org)**  
+1. **[MLflow](https://mlflow.org)**  
     An open-source platform for managing the machine learning lifecycle, including LLMs and VLMs. It supports experiment tracking, model versioning, and deployment, with integrations for LangChain, LlamaIndex, and DSPy. Ideal for reproducible AI workflows.
 
-16. **[n8n](https://n8n.io)**  
+2. **[n8n](https://n8n.io)**  
     An open-source, low-code workflow automation platform. It integrates LLMs with external tools and APIs to automate tasks like data processing or chatbot responses. Used for building scalable AI-driven workflows with minimal coding.
 
-17. **[Flowise](https://flowiseai.com)**  
+3. **[Flowise](https://flowiseai.com)**  
     An open-source, low-code platform for building LLM applications. It features a drag-and-drop interface and integrates with LangChain and LlamaIndex, making it accessible for non-coders to create chatbots and RAG systems.
 
 ---
 
 ## 🧑‍🔧 Fine-Tuning & Training Optimization
 
-18. **[Hugging Face Transformers](https://huggingface.co/docs/transformers/installation)**  
+1. **[Hugging Face Transformers](https://huggingface.co/docs/transformers/installation)**  
     A comprehensive library for training, fine-tuning, and deploying LLMs and VLMs. It supports models like BERT, GPT, and CLIP, with tools for NLP, computer vision, and multimodal tasks. Used for research and production-grade AI applications.
 
-19. **[PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/huggingface/peft)**  
+2. **[PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/huggingface/peft)**  
     A library for efficient fine-tuning of large models using techniques like LoRA, prompt tuning, and adapters. Ideal for customizing LLMs on limited hardware.
 
-20. **[bitsandbytes](https://github.com/TimDettmers/bitsandbytes)**  
+3. **[bitsandbytes](https://github.com/TimDettmers/bitsandbytes)**  
     A lightweight CUDA extension for quantization and low-bit inference/training of LLMs. Enables memory-efficient training of large models.
 
-21. **[LMFlow](https://github.com/OptimalScale/LMFlow)**  
+4. **[LMFlow](https://github.com/OptimalScale/LMFlow)**  
     A framework for easy and fast fine-tuning, instruction tuning, and deployment of LLMs. Includes support for model compression and evaluation.
 
 ---
 
 ## ✅ Evaluation, Testing & Benchmarking
 
-22. **[DeepEval](https://www.deepeval.com)**  
+1. **[DeepEval](https://www.deepeval.com)**  
     A testing framework for evaluating LLM applications. It offers over 14 research-backed metrics to assess RAG pipelines and safety risks, integrating with frameworks like LangChain and LlamaIndex. Used for quality assurance in AI development.
 
-23. **[PromptTools](https://github.com/hegelai/prompttools)**  
+2. **[PromptTools](https://github.com/hegelai/prompttools)**  
     A Python library for debugging, comparing, and evaluating LLM prompts with visualizations and logging support.
 
-24. **[AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)**  
+3. **[AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)**  
     A community-driven evaluation toolkit for benchmarking LLMs' instruction-following ability using standardized prompts.
 
-25. **[OpenCompass](https://github.com/open-compass/opencompass)**  
+4. **[OpenCompass](https://github.com/open-compass/opencompass)**  
     A comprehensive open-source framework for large-scale benchmarking of LLMs and VLMs using curated datasets and metrics.
+
+5. **[OpenCompass](https://github.com/open-compass/opencompass)**  
+    A comprehensive open-source framework for large-scale benchmarking of LLMs and VLMs using curated datasets and metrics.
+
+6. **[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)** 🖼️  
+    Open-source evaluation toolkit of large vision-language models (LVLMs). It enables one-command evaluation of LVLMs on various benchmarks (support 220+ LMMs, 80+ benchmarks).
 
 ---
 
 ## 📊 Interactive UI & Demos
 
-26. **[Gradio](https://www.gradio.app)**  
+1. **[Gradio](https://www.gradio.app)**  
     An intuitive Python library for creating interactive web interfaces for ML models. Popular for prototyping and demonstrating LLM/VLM applications.
 
-27. **[Open WebUI](https://github.com/open-webui/open-webui)**  
+2. **[Open WebUI](https://github.com/open-webui/open-webui)**  
     An open-source web interface for interacting with local and hosted LLMs. Supports multiple backends and provides a sleek, extensible UI.
 
 ---
 
 ## 🎨 Multimodal & Vision-Language Models
 
-28. **[OpenMMLab Multimoda-GPTl](https://github.com/open-mmlab/Multimodal-GPT)**  
+1. **[OpenMMLab Multimoda-GPTl](https://github.com/open-mmlab/Multimodal-GPT)**  
     Based on the open-source multi-modal model OpenFlamingo create various visual instruction data with open datasets, including VQA, Image Captioning, Visual Reasoning, Text OCR, and Visual Dialogue.
     
-29. **[OpenMMLab MMagic](https://github.com/open-mmlab/mmagic)**  
+2. **[OpenMMLab MMagic](https://github.com/open-mmlab/mmagic)**  
     Multimodal Advanced, Generative, and Intelligent Creation (MMagic).
 
 ---
 
 ## 🧠 Interpretability & Analysis
 
-30. **[Transformer Lens](https://github.com/neelnanda-io/TransformerLens)**  
+1. **[Transformer Lens](https://github.com/neelnanda-io/TransformerLens)**  
     A library for visualizing and interpreting transformer internals. Helps researchers understand model behavior neuron-by-neuron.
 
 ---
