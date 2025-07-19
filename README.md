@@ -307,5 +307,7 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
    * [2025 Posters](https://iclr2025.vizhub.ai/)
   
 4. **[ACL](https://aclanthology.org/venues/acl/) - Association for Computational Linguistics**
+
+   If you need support with your AI project or if you're simply AI and new technology enthusiast, don't hesitate to connect with me on LinkedIn 👍
   
 
