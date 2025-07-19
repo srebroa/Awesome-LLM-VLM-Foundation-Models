@@ -308,6 +308,6 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
   
 4. **[ACL](https://aclanthology.org/venues/acl/) - Association for Computational Linguistics**
 
-   If you need support with your AI project or if you're simply AI and new technology enthusiast, don't hesitate to connect with me on LinkedIn 👍
+If you need support with your AI project or if you're simply AI and new technology enthusiast, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/adam-srebro-phd-90a3504b) 👍
   
 
