@@ -36,7 +36,10 @@
     <tr><td>19</td><td>Cerebras Qwen3-32B</td><td>2025-05</td><td>Cerebras</td><td>32 B params</td><td>High-speed reasoning</td><td>Open source (Apache 2.0)</td></tr>
     <tr><td>20</td><td>Grok 4</td><td>2025-07</td><td>xAI (Elon Musk)</td><td>~2.4T params / 260K tokens</td><td>Advanced reasoning, coding (Grok 4 Code), multimodal, real-time data</td><td>SuperGrok $30/mo, Heavy $300/mo; API: $3/1M in, $15/1M out; X Premium+ access</td></tr>
     <tr><td>21</td><td><a href="https://github.com/MoonshotAI/Kimi-K2">Kimi K2</a></td><td>2025-07</td><td>Moonshot AI</td><td>1T params (32B active) / 128K tokens</td><td>Mixture-of-experts (MoE). Agentic intelligence, coding, reasoning, tool use</td><td>Open source (Modified MIT); API: $0.15/1M in, $2.50/1M out</td></tr>
-    <tr><td>22</td><td>GPT‑5</td><td>TBD (Expected 2025)</td><td>OpenAI</td><td>Unknown</td><td>Chain-of-thought, AGI-aligned reasoning</td><td>Not yet released</td></tr>
+    <tr><td>22</td><td>gpt-oss-20b</td><td>2025-08</td><td>OpenAI</td><td>21B params (3.6B active) / 128K tokens</td><td>Reasoning, agentic tasks, local deployment, low latency</td><td>Open source (Apache 2.0), downloadable via Hugging Face, Ollama, GitHub</td></tr>
+    <tr><td>23</td><td>gpt-oss-120b</td><td>2025-08</td><td>OpenAI</td><td>117B params (5.1B active) / 128K tokens</td><td>Deep reasoning, agentic tasks, enterprise-grade deployment</td><td>Open source (Apache 2.0), downloadable via Hugging Face, Ollama, GitHub</td></tr>
+    <tr><td>24</td><td>GPT‑5</td><td>2025-08</td><td>OpenAI</td><td>~15T params / 400K tokens</td><td>Advanced reasoning, coding, multimodal, scientific tasks</td><td>API: $5/1M in, $20/1M out; ChatGPT Plus/Pro/Team, Free-tier access</td></tr>
+
   </tbody>
 </table>
 </div>
