@@ -45,6 +45,13 @@
     <tr><td>29</td><td>gpt-oss-20b</td><td>2025-08</td><td>OpenAI</td><td>21B params (3.6B active) / 128K tokens</td><td>Reasoning, agentic tasks, local deployment, low latency</td><td>Open source (Apache 2.0), downloadable via Hugging Face, Ollama, GitHub</td></tr>
     <tr><td>30</td><td>gpt-oss-120b</td><td>2025-08</td><td>OpenAI</td><td>117B params (5.1B active) / 128K tokens</td><td>Deep reasoning, agentic tasks, enterprise-grade deployment</td><td>Open source (Apache 2.0), downloadable via Hugging Face, Ollama, GitHub</td></tr>
     <tr><td>31</td><td>GPT-5</td><td>2025-08</td><td>OpenAI</td><td>~15T params / 400K tokens</td><td>Advanced reasoning, coding, multimodal, scientific tasks</td><td><a href="https://openai.com/api/pricing">API:</a> $1.25/1M in, $10/1M out; ChatGPT Plus/Pro/Team, Free-tier access</td></tr>
+    <tr><td>32</td><td>GPT-5.1</td><td>2025-08</td><td>OpenAI</td><td>~10T params / 256K tokens</td><td>Intermediate upgrade over GPT-5 with stronger reasoning & context handling</td><td>API & ChatGPT Pro/Enterprise</td></tr>
+    <tr><td>33</td><td>Claude 4.2 Opus</td><td>2025-09</td><td>Anthropic</td><td>~300 B params / 200K tokens</td><td>Top-tier coding, long-horizon reasoning, agent workflows</td><td>API (paid via Anthropic); premium enterprise pricing</td></tr>
+    <tr><td>34</td><td>Gemini 3 Pro</td><td>2025-09</td><td>Google DM</td><td>Undisclosed; multimodal / 2M tokens</td><td>State-of-the-art multimodal reasoning, long-context analysis</td><td>Google AI Studio; Vertex AI (paid API)</td></tr>
+    <tr><td>35</td><td>Llama 4 Titan</td><td>2025-09</td><td>Meta AI</td><td>MoE (~1T total params) / 2M context</td><td>Open-weight frontier model for research, coding, agents</td><td>Open weights (research & commercial use)</td></tr>
+    <tr><td>36</td><td>GPT-5.2</td><td>2025-10</td><td>OpenAI</td><td>~20T params / 512K tokens</td><td>Improved scientific reasoning, autonomy, multimodal agents</td><td>API & ChatGPT Pro/Enterprise tiers</td></tr>
+    <tr><td>37</td><td>Grok 4.1</td><td>2025-11</td><td>xAI (Elon Musk)</td><td>Undisclosed; up to ~2M token context</td><td>Improved over Grok-4 with better reasoning, emotional intelligence, multimodal understanding, lower hallucinations; multiple variants (e.g., Fast, Thinking)</td><td>Via xAI/Grok web, X, API (Fast); subscription and API plans</td></tr>
+
   </tbody>
 </table>
 </div>
