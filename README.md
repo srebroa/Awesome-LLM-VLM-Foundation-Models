@@ -14,44 +14,32 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>GPT-4o (“Omni”)</td><td>2024-05</td><td>OpenAI</td><td>Multimodal / 128K tokens</td><td>Text+image+audio+voice; fast & free-tier use</td><td>Free-tier in ChatGPT; API: $2.50/1M in, $10/1M out</td></tr>
-    <tr><td>2</td><td>GPT-4o mini</td><td>2024-07</td><td>OpenAI</td><td>~8 B params / 128K tokens</td><td>Cost-effective multimodal</td><td>ChatGPT replacement; API: $0.15/1M in, $0.60/1M out</td></tr>
-    <tr><td>3</td><td>o4-mini-high / o4-mini</td><td>2025-04</td><td>OpenAI</td><td>Compact reasoning / multimodal</td><td>STEM, coding, fast reasoning with vision</td><td>API: input $1.10, output $4.40 per 1M tokens</td></tr>
-    <tr><td>4</td><td>o3-mini-high / o3-mini</td><td>2024</td><td>OpenAI</td><td>Small reasoning models</td><td>Technical/scientific reasoning on a budget</td><td>API: same pricing as o3 & mini models</td></tr>
-    <tr><td>5</td><td>Llama 4 Maverick</td><td>2025</td><td>Meta AI</td><td>Large Mixture-of-Expert (128 experts), 400B parameters, 1M context</td><td>Coding, reasoning; GPT-4o-level</td><td>$0.19-$0.49/1M in & out tokens</td></tr>
-    <tr><td>6</td><td>Llama 4 Scout</td><td>2025</td><td>Meta AI</td><td>Small (fits 1 A100/H100) / 109B parameters, 10M context</td><td>Generalist, long context small model</td><td>Open weights</td></tr>
-    <tr><td>7</td><td>Llama 3.1 405B</td><td>2024</td><td>Meta AI</td><td>405 B params / 128K tokens</td><td>Research, long-context, coding</td><td>Open source</td></tr>
-    <tr><td>8</td><td>Claude 3.7 Sonnet</td><td>2024-10</td><td>Anthropic</td><td>~175 B params / 200K tokens</td><td>Extended reasoning & coding</td><td>API (paid via Anthropic)</td></tr>
-    <tr><td>9</td><td>Claude 4</td><td>2025-04</td><td>Anthropic</td><td>~200 B params / 200K tokens</td><td>Advanced coding, creative writing, multimodal tasks</td><td>API (paid via Anthropic); AWS Bedrock, Vertex AI</td></tr>
-    <tr><td>10</td><td>Claude 4.1 Opus</td><td>2025-07</td><td>Anthropic</td><td>~250 B params / 200K tokens</td><td>Superior coding, creative writing, transparent reasoning</td><td>API (paid via Anthropic); $15/1M out</td></tr>
-    <tr><td>11</td><td>Gemini 2.5 Pro</td><td>2024-05</td><td>Google DM</td><td>Undisclosed; multimodal / 1M tokens</td><td>Advanced reasoning, multimodal</td><td>API (paid via Google)</td></tr>
-    <tr><td>12</td><td>Gemini 2.5 Pro Preview</td><td>2025-03</td><td>Google DM</td><td>Undisclosed; multimodal / 1M tokens</td><td>Advanced reasoning, coding, multimodal tasks</td><td>Google AI Studio (free experimental access); API: $1.25/1M in, $10/1M out</td></tr>
-    <tr><td>13</td><td>Gemini 2.5 Flash</td><td>2025-04</td><td>Google DM</td><td>Undisclosed; multimodal / 1M tokens</td><td>Fast, cost-effective multimodal tasks</td><td>API: $0.3/1M tokens in, $2.5/1M out; Google AI Studio, Vertex AI</td></tr>
-    <tr><td>14</td><td>Gemini 2.5 Flash-Lite</td><td>2025-07</td><td>Google DM</td><td>Undisclosed; multimodal / 1M tokens</td><td>Cost-effective, low-latency tasks like classification, summarization</td><td>API: $0.10/1M in, $0.40/1M out; Google AI Studio, Vertex AI</td></tr>
-    <tr><td>15</td><td>Stable LM 2 12B</td><td>2024-04</td><td>Stability AI</td><td>12 B params</td><td>Open model with good benchmarks</td><td>Open source</td></tr>
-    <tr><td>16</td><td>Qwen 2.5-VL 32B</td><td>2025-03</td><td>Alibaba</td><td>32 B params; multimodal / 128K tokens</td><td>Vision+language tasks</td><td>Open source (Apache 2.0)</td></tr>
-    <tr><td>17</td><td>Mistral Small 3.1</td><td>2025-03</td><td>Mistral AI</td><td>24 B params; 128K tokens</td><td>Image & doc understanding</td><td>Open source (Apache 2.0)</td></tr>
-    <tr><td>18</td><td>Gemma 3 (27B)</td><td>2025-03</td><td>Google DM</td><td>27 B params</td><td>One-GPU efficient model</td><td>Open source</td></tr>
-    <tr><td>19</td><td>EmbeddingGemma</td><td>2025-09</td><td>Google DM</td><td>Small, optimized for embeddings, on-device use cases / 308M params / 2K tokens</td><td>Text embeddings for semantic search, clustering</td><td>Open source</td></tr>
-    <tr><td>20</td><td>Fox-1 1.6B Instruct</td><td>2024-11</td><td>Fox-1 project</td><td>1.6 B params</td><td>Instruction-following small LLM, conversational</td><td>Open source (Apache 2.0)</td></tr>
-    <tr><td>21</td><td>Grok 3</td><td>2025-02</td><td>xAI (Elon Musk)</td><td>Unknown (Chat-focused) / 1M tokens</td><td>Conversational AI, Twitter/X integration</td><td>Proprietary (likely X Premium)</td></tr>
-    <tr><td>22</td><td>Grok-3 mini</td><td>2025-02</td><td>xAI (Elon Musk)</td><td>Small; reasoning-focused / 1M tokens</td><td>Cost-effective reasoning, coding, STEM tasks</td><td>Proprietary (likely X Premium)</td></tr>
-    <tr><td>27</td><td>Grok 4</td><td>2025-07</td><td>xAI (Elon Musk)</td><td>~2.4T params / 256K tokens</td><td>Advanced reasoning, coding (Grok 4 Code), multimodal, real-time data</td><td>SuperGrok $30/mo, Heavy $300/mo; API: $3/1M in, $15/1M out; X Premium+ access</td></tr>
-    <tr><td>23</td><td>Grok-4 Heavy</td><td>2025-07</td><td>xAI (Elon Musk)</td><td>Unknown</td><td>Advanced reasoning, coding, real-time data, high-compute tasks</td><td>SuperGrok $300/mo; API: $3/1M in, $15/1M out</td></tr>
-    <tr><td>24</td><td>DeepSeek R1</td><td>2025</td><td>DeepSeek AI</td><td>Reasoning-focused / 128K tokens</td><td>Reasoning tasks, competitive with GPT-4.5</td><td>Open weights</td></tr>
-    <tr><td>25</td><td>DeepSeek V3.1</td><td>2025-06</td><td>DeepSeek AI</td><td>Undisclosed; reasoning-focused / 128K tokens</td><td>Advanced reasoning, coding, cost-efficiency</td><td>Open weights</td></tr>
-    <tr><td>26</td><td>Cerebras Qwen3-32B</td><td>2025-05</td><td>Cerebras</td><td>32 B params</td><td>High-speed reasoning</td><td>Open source (Apache 2.0)</td></tr>
-    <tr><td>28</td><td><a href="https://github.com/MoonshotAI/Kimi-K2">Kimi K2</a></td><td>2025-07</td><td>Moonshot AI</td><td>1T params (32B active) / 128K tokens</td><td>Mixture-of-experts (MoE). Agentic intelligence, coding, reasoning, tool use</td><td>Open source (Modified MIT); API: $0.15/1M in, $2.50/1M out</td></tr>
-    <tr><td>29</td><td>gpt-oss-20b</td><td>2025-08</td><td>OpenAI</td><td>21B params (3.6B active) / 128K tokens</td><td>Reasoning, agentic tasks, local deployment, low latency</td><td>Open source (Apache 2.0), downloadable via Hugging Face, Ollama, GitHub</td></tr>
-    <tr><td>30</td><td>gpt-oss-120b</td><td>2025-08</td><td>OpenAI</td><td>117B params (5.1B active) / 128K tokens</td><td>Deep reasoning, agentic tasks, enterprise-grade deployment</td><td>Open source (Apache 2.0), downloadable via Hugging Face, Ollama, GitHub</td></tr>
-    <tr><td>31</td><td>GPT-5</td><td>2025-08</td><td>OpenAI</td><td>~15T params / 400K tokens</td><td>Advanced reasoning, coding, multimodal, scientific tasks</td><td><a href="https://openai.com/api/pricing">API:</a> $1.25/1M in, $10/1M out; ChatGPT Plus/Pro/Team, Free-tier access</td></tr>
-    <tr><td>32</td><td>GPT-5.1</td><td>2025-08</td><td>OpenAI</td><td>~10T params / 256K tokens</td><td>Intermediate upgrade over GPT-5 with stronger reasoning & context handling</td><td>API & ChatGPT Pro/Enterprise</td></tr>
-    <tr><td>33</td><td>Claude 4.2 Opus</td><td>2025-09</td><td>Anthropic</td><td>~300 B params / 200K tokens</td><td>Top-tier coding, long-horizon reasoning, agent workflows</td><td>API (paid via Anthropic); premium enterprise pricing</td></tr>
-    <tr><td>34</td><td>Gemini 3 Pro</td><td>2025-09</td><td>Google DM</td><td>Undisclosed; multimodal / 2M tokens</td><td>State-of-the-art multimodal reasoning, long-context analysis</td><td>Google AI Studio; Vertex AI (paid API)</td></tr>
-    <tr><td>35</td><td>Llama 4 Titan</td><td>2025-09</td><td>Meta AI</td><td>MoE (~1T total params) / 2M context</td><td>Open-weight frontier model for research, coding, agents</td><td>Open weights (research & commercial use)</td></tr>
-    <tr><td>36</td><td>GPT-5.2</td><td>2025-10</td><td>OpenAI</td><td>~20T params / 512K tokens</td><td>Improved scientific reasoning, autonomy, multimodal agents</td><td>API & ChatGPT Pro/Enterprise tiers</td></tr>
-    <tr><td>37</td><td>Grok 4.1</td><td>2025-11</td><td>xAI (Elon Musk)</td><td>Undisclosed; up to ~2M token context</td><td>Improved over Grok-4 with better reasoning, emotional intelligence, multimodal understanding, lower hallucinations; multiple variants (e.g., Fast, Thinking)</td><td>Via xAI/Grok web, X, API (Fast); subscription and API plans</td></tr>
-
+    <tr><td>1</td><td>Grok 4.1</td><td>2025-11</td><td>xAI (Elon Musk)</td><td>Undisclosed; up to ~2M token context</td><td>Improved reasoning, emotional intelligence, multimodal understanding</td><td>Via xAI/Grok web, X, API (Fast); subscription and API plans</td></tr>
+    <tr><td>2</td><td>GPT-5.2</td><td>2025-10</td><td>OpenAI</td><td>~20T params / 512K tokens</td><td>Improved scientific reasoning, autonomy, multimodal agents</td><td>API & ChatGPT Pro/Enterprise tiers</td></tr>
+    <tr><td>3</td><td>Llama 4 Titan</td><td>2025-09</td><td>Meta AI</td><td>MoE (~1T total params) / 2M context</td><td>Open-weight frontier model for research, coding, agents</td><td>Open weights (research & commercial use)</td></tr>
+    <tr><td>4</td><td>Gemini 3 Pro</td><td>2025-09</td><td>Google DM</td><td>Undisclosed; multimodal / 2M tokens</td><td>State-of-the-art multimodal reasoning, long-context analysis</td><td>Google AI Studio; Vertex AI (paid API)</td></tr>
+    <tr><td>5</td><td>Claude 4.2 Opus</td><td>2025-09</td><td>Anthropic</td><td>~300 B params / 200K tokens</td><td>Top-tier coding, long-horizon reasoning, agent workflows</td><td>API (paid via Anthropic)</td></tr>
+    <tr><td>6</td><td>GPT-5</td><td>2025-08</td><td>OpenAI</td><td>~15T params / 400K tokens</td><td>Advanced reasoning, coding, multimodal, scientific tasks</td><td>API; ChatGPT Plus/Pro/Team</td></tr>
+    <tr><td>7</td><td>GPT-5.1</td><td>2025-08</td><td>OpenAI</td><td>~10T params / 256K tokens</td><td>Intermediate upgrade with stronger reasoning</td><td>API & ChatGPT Pro/Enterprise</td></tr>
+    <tr><td>8</td><td>gpt-oss-120b</td><td>2025-08</td><td>OpenAI</td><td>117B params (5.1B active) / 128K tokens</td><td>Deep reasoning, enterprise-grade deployment</td><td>Open source (Apache 2.0)</td></tr>
+    <tr><td>9</td><td>gpt-oss-20b</td><td>2025-08</td><td>OpenAI</td><td>21B params (3.6B active) / 128K tokens</td><td>Reasoning, agentic tasks, low latency</td><td>Open source (Apache 2.0)</td></tr>
+    <tr><td>10</td><td><a href="https://github.com/moonshot-ai/k2">Kimi K2</a></td><td>2025-07</td><td>Moonshot AI</td><td>1T params (32B active) / 128K tokens</td><td>Agentic intelligence, coding, reasoning, tool use</td><td>Open source; API available</td></tr>
+    <tr><td>11</td><td>Grok 4</td><td>2025-07</td><td>xAI (Elon Musk)</td><td>~2.4T params / 256K tokens</td><td>Advanced reasoning, coding, multimodal, real-time data</td><td>SuperGrok / API</td></tr>
+    <tr><td>12</td><td>Grok-4 Heavy</td><td>2025-07</td><td>xAI (Elon Musk)</td><td>Unknown</td><td>High-compute reasoning and coding</td><td>SuperGrok $300/mo; API</td></tr>
+    <tr><td>13</td><td>Claude 4.1 Opus</td><td>2025-07</td><td>Anthropic</td><td>~250 B params / 200K tokens</td><td>Superior coding, creative writing</td><td>API (paid)</td></tr>
+    <tr><td>14</td><td>Gemini 2.5 Flash-Lite</td><td>2025-07</td><td>Google DM</td><td>Undisclosed; multimodal / 1M tokens</td><td>Low-latency, cost-effective tasks</td><td>API</td></tr>
+    <tr><td>15</td><td>EmbeddingGemma</td><td>2025-09</td><td>Google DM</td><td>308M params / 2K tokens</td><td>Text embeddings, on-device use</td><td>Open source</td></tr>
+    <tr><td>16</td><td>DeepSeek V3.1</td><td>2025-06</td><td>DeepSeek AI</td><td>Reasoning-focused / 128K tokens</td><td>Advanced reasoning, coding</td><td>Open weights</td></tr>
+    <tr><td>17</td><td>Cerebras Qwen3-32B</td><td>2025-05</td><td>Cerebras</td><td>32 B params</td><td>High-speed reasoning</td><td>Open source</td></tr>
+    <tr><td>18</td><td>Claude 4</td><td>2025-04</td><td>Anthropic</td><td>~200 B params / 200K tokens</td><td>Advanced coding and multimodal tasks</td><td>API</td></tr>
+    <tr><td>19</td><td>Gemini 2.5 Flash</td><td>2025-04</td><td>Google DM</td><td>Undisclosed / 1M tokens</td><td>Fast multimodal tasks</td><td>API</td></tr>
+    <tr><td>20</td><td>o4-mini-high / o4-mini</td><td>2025-04</td><td>OpenAI</td><td>Compact reasoning / multimodal</td><td>STEM, coding, vision reasoning</td><td>API</td></tr>
+    <tr><td>21</td><td>Gemini 2.5 Pro Preview</td><td>2025-03</td><td>Google DM</td><td>Undisclosed / 1M tokens</td><td>Advanced reasoning, coding</td><td>Google AI Studio</td></tr>
+    <tr><td>22</td><td>Qwen 2.5-VL 32B</td><td>2025-03</td><td>Alibaba</td><td>32 B params / 128K tokens</td><td>Vision-language tasks</td><td>Open source</td></tr>
+    <tr><td>23</td><td>Mistral Small 3.1</td><td>2025-03</td><td>Mistral AI</td><td>24 B params / 128K tokens</td><td>Image & document understanding</td><td>Open source</td></tr>
+    <tr><td>24</td><td>Gemma 3 (27B)</td><td>2025-03</td><td>Google DM</td><td>27 B params</td><td>One-GPU efficiency</td><td>Open source</td></tr>
+    <tr><td>25</td><td>Grok 3</td><td>2025-02</td><td>xAI (Elon Musk)</td><td>1M tokens</td><td>Conversational AI, X integration</td><td>Proprietary</td></tr>
+    <tr><td>26</td><td>Grok-3 mini</td><td>2025-02</td><td>xAI (Elon Musk)</td><td>1M tokens</td><td>Cost-effective reasoning</td><td>Proprietary</td></tr>
   </tbody>
 </table>
 </div>
