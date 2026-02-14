@@ -40,6 +40,12 @@
     <tr><td>24</td><td>Gemma 3 (27B)</td><td>2025-03</td><td>Google DM</td><td>27 B params</td><td>One-GPU efficiency</td><td>Open source</td></tr>
     <tr><td>25</td><td>Grok 3</td><td>2025-02</td><td>xAI (Elon Musk)</td><td>1M tokens</td><td>Conversational AI, X integration</td><td>Proprietary</td></tr>
     <tr><td>26</td><td>Grok-3 mini</td><td>2025-02</td><td>xAI (Elon Musk)</td><td>1M tokens</td><td>Cost-effective reasoning</td><td>Proprietary</td></tr>
+    <tr><td>27</td><td>GLM-5</td><td>2026-02</td><td>Zhipu AI</td><td>Undisclosed (next-gen) / 200K+ tokens</td><td>Frontier reasoning, advanced coding, long-agent workflows</td><td>Open weights; API available</td></tr>
+    <tr><td>28</td><td>MiniMax M2.5</td><td>2026-02</td><td>MiniMax AI</td><td>Undisclosed / 128K+ tokens</td><td>Agentic reasoning, multilingual performance (EN/ZH), efficient deployment</td><td>Open source; API</td></tr>
+    <tr><td>29</td><td>Yuan3.0 Flash</td><td>2026-01</td><td>YuanLab.ai</td><td>~40B params (MoE) / 128K tokens</td><td>Enterprise multimodal LLM, efficient reasoning, cost-optimized serving</td><td>Open source</td></tr>
+    <tr><td>30</td><td>Seedance 2.0</td><td>2026-02</td><td>ByteDance</td><td>Multimodal (text-video) / long-context</td><td>High-fidelity video generation, multimodal synthesis</td><td>Commercial platform; API</td></tr>
+    <tr><td>31</td><td>Kling 3.0</td><td>2026-01</td><td>Kuaishou AI</td><td>Video foundation model / long-form generation</td><td>High-resolution video creation, cinematic multimodal outputs</td><td>Commercial platform</td></tr>
+
   </tbody>
 </table>
 </div>
