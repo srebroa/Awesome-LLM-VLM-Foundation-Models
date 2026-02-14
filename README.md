@@ -309,7 +309,8 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
    * [2025 Posters](https://cvpr2025.vizhub.ai)  
     
 2. **[NeurIPS](https://neurips.cc) - Conference on Neural Information Processing Systems**
-   
+   * [2025 Accepted Papers](https://neurips.cc/virtual/2025/loc/san-diego/papers.html?filter=titles&layout=topic).
+     
 3. **[ICLR](https://iclr.cc/) - International Conference on Learning Representations**
    * [2025 Accepted Papers](https://iclr.cc/virtual/2025/papers.html?filter=topic&search=)
    * [2025 Posters](https://iclr2025.vizhub.ai/)
