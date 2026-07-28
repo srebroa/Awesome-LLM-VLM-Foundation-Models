@@ -98,6 +98,31 @@ This is a curated list of new and up-to-date leaderboards for Large Language Mod
 7. **[Zero-Shot Video Question Answer on Video-MME](https://paperswithcode.com/sota/zero-shot-video-question-answer-on-video-mme-1)**  
    This task present the results of Zeroshot Question Answer results on TGIF-QA dataset for LLM powered Video Conversational Models.
 
+## 🧪 Agentic and Real-World Benchmarks (2025–2026)
+
+Traditional question-answering benchmarks are increasingly supplemented by evaluations that test complete agents in realistic environments.
+
+1. [SWE-bench](https://www.swebench.com/)  
+Evaluates whether AI systems can resolve real-world GitHub issues by modifying existing repositories and producing patches that pass project tests.
+
+2. [Terminal-Bench](https://www.tbench.ai/)  
+Tests autonomous agents in realistic terminal environments, including software compilation, debugging, system configuration, data processing and scientific workflows.
+
+3. [OSWorld / OSWorld-Verified](https://github.com/xlang-ai/OSWorld)  
+Evaluates multimodal computer-use agents across real desktop applications, web browsers, file operations and workflows spanning multiple applications.
+
+4. [OSWorld 2.0](https://github.com/xlang-ai/OSWorld-V2)  
+A newer computer-use benchmark designed to reduce evaluation leakage and provide more reliable execution-based assessment of desktop agents.
+
+5. [ARC-AGI-3](https://arcprize.org/arc-agi/3)  
+An interactive reasoning benchmark that measures how agents explore unfamiliar environments, infer goals, build world models and adapt from experience.
+
+6. [SWE-Bench Pro](https://labs.scale.com/leaderboard/swe_bench_pro_public)  
+Extends repository-level software-engineering evaluation to a larger collection of professional repositories and more diverse, difficult tasks.
+
+> [!TIP]
+> Benchmark results should always include the exact model version, reasoning setting, agent harness, tool configuration and benchmark version. Scores produced with different harnesses are not necessarily directly comparable.
+
 ## Frameworks and Tools for LLMs, VLMs, and Foundation Models (2025)
 
 This list highlights key frameworks, tools, and libraries for developing, deploying, and managing Large Language Models (LLMs), Vision-Language Models (VLMs), and foundation models.
@@ -120,6 +145,45 @@ This list highlights key frameworks, tools, and libraries for developing, deploy
    A Python-based framework for creating multi-agent LLM systems. It enables agents to collaborate on tasks like data retrieval and code execution, enhancing complex workflows. Used for building autonomous AI agents and research.
 
 ---
+
+## 🤖 Agent Frameworks, Protocols & Interoperability
+
+1. [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)  
+An open standard for connecting AI applications to external tools, data sources, prompts and workflows through a common client-server interface.
+
+2. [Agent2Agent Protocol (A2A)](https://github.com/a2aproject/A2A)  
+A Linux Foundation open protocol, originally contributed by Google, that enables discovery, communication and interoperability between independent agentic applications.
+
+3. [OpenAI Agents SDK](https://github.com/openai/openai-agents-python)  
+A lightweight framework for building tool-using and multi-agent workflows with handoffs, guardrails, tracing and support for multiple model providers. Python and JavaScript/TypeScript implementations are available.
+
+4. [Google Agent Development Kit (ADK)](https://github.com/google/adk-python)  
+An open-source, code-first framework for building, evaluating and deploying agents and multi-agent systems with flexible model and deployment options.
+
+5. [LangGraph](https://github.com/langchain-ai/langgraph)  
+A low-level orchestration framework for building long-running, stateful and resilient agents with explicit control over workflow graphs, memory and human intervention.
+
+6. [Pydantic AI](https://github.com/pydantic/pydantic-ai)  
+A Python agent framework focused on typed dependencies, structured outputs, validation, observability and production-grade generative AI workflows.
+
+7. [smolagents](https://github.com/huggingface/smolagents)  
+A compact Hugging Face agent library supporting code-based agents, tool use and multiple local or hosted model providers.
+
+---
+
+## ⚡ Additional Model Serving Tools
+
+1. [SGLang](https://github.com/sgl-project/sglang)  
+A high-performance serving framework for LLMs and multimodal models, designed for low-latency and high-throughput inference from single-GPU systems to distributed clusters.
+
+2. [llama.cpp](https://github.com/ggml-org/llama.cpp)  
+A widely used C/C++ inference engine for running quantized language and multimodal models locally across CPUs, GPUs and heterogeneous hardware.
+
+3. [LiteLLM](https://github.com/BerriAI/litellm)  
+A unified OpenAI-compatible interface and proxy for working with APIs from many model providers, with routing, budgets, fallbacks and observability.
+
+4. [KTransformers](https://github.com/kvcache-ai/ktransformers)  
+A flexible inference and optimization framework for running large open-weight models using heterogeneous CPU and GPU resources.
 
 ## 🔍 Retrieval-Augmented Generation (RAG) & Semantic Search
 
