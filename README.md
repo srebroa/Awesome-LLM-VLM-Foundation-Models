@@ -1,5 +1,28 @@
 <h1>Awesome-LLM-VLM-Foundation-Models 🚀⭐⭐⭐</h1> 
 <p>Awesome curated list of LLM, VLM and other Foundation Models</p>
+
+## 🆕 Foundation Models Update — 2026
+
+> [!NOTE]
+> This section was last verified on **2026-07-29**. Architecture and context-window values are included only when officially disclosed. Links point to first-party announcements or official model cards.
+
+| Model | Released | Organization | Size & Context Window | Best For / Strengths | Access |
+|---|---:|---|---|---|---|
+| [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | 2026-07 | Anthropic | Undisclosed | Long-running agents, advanced software engineering, code review, professional knowledge work | Claude products and Claude API; proprietary |
+| [Gemini 3.6 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) | 2026-07 | Google DeepMind | Undisclosed; multimodal | Token-efficient coding, multimodal tasks, knowledge work and multi-step agent workflows | Gemini, Google AI Studio, Gemini API and Vertex AI |
+| [Grok 4.5](https://x.ai/news/grok-4-5) | 2026-07 | SpaceXAI / xAI | Undisclosed | Software engineering, coding agents, terminal tasks and knowledge work | Grok, Grok Build, Cursor and API; proprietary |
+| [Kimi K3](https://www.kimi.com/blog/kimi-k3) | 2026-07 | Moonshot AI | 2.8T-parameter sparse MoE; 1M-token context | Native multimodality, long-horizon coding, reasoning, knowledge work and visual software development | Open weights, Kimi products and API |
+| [GPT-5.6 family — Sol, Terra and Luna](https://openai.com/index/gpt-5-6/) | 2026-07 | OpenAI | Undisclosed; long-context family | Coding, science, cybersecurity, computer use, knowledge work and multi-agent execution | ChatGPT, Codex and OpenAI API; proprietary |
+| [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 2026-06 | Anthropic | Undisclosed | Cost-efficient agentic coding, tool use, browser and terminal workflows | Claude products, Claude Code and Claude API; proprietary |
+| [Mistral OCR 4](https://mistral.ai/news/ocr-4/) | 2026-06 | Mistral AI | Compact specialized document model; 170 languages | OCR, document structure, bounding boxes, block classification, confidence scores and RAG ingestion | API, Document AI and enterprise self-hosting |
+| [GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) | 2026-06 | Z.ai / Zhipu AI | 753B parameters; 1M-token context | Long-horizon tasks, coding, adjustable reasoning effort and efficient sparse attention | Open weights under MIT license and Z.ai API |
+| [Claude Fable 5 / Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | 2026-06 | Anthropic | Undisclosed; same underlying model with different safeguards | Frontier long-horizon reasoning, vision, software engineering, scientific research and cybersecurity | Fable 5 via Claude/API; Mythos 5 through restricted trusted-access programs |
+| [Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/) | 2026-05 | Mistral AI | 128B dense model; 256K context | Multimodal coding, remote agents, instruction following and long-running productivity workflows | Open weights under modified MIT license and Mistral API |
+| [DeepSeek V4 Preview](https://api-docs.deepseek.com/news/news260424/) | 2026-04 | DeepSeek AI | Pro: 1.6T total / 49B active; Flash: 284B total / 13B active; 1M context | Open agentic coding, STEM reasoning, tool use and cost-efficient long-context inference | Open weights, DeepSeek chat and API |
+| [MiniMax M2.7](https://www.minimax.io/news/minimax-m27-en) | 2026-03 | MiniMax AI | Undisclosed | Agent harnesses, software engineering, office productivity, dynamic tool search and long-running workflows | MiniMax Agent and API |
+| [Mistral Small 4](https://mistral.ai/news/mistral-small-4/) | 2026-03 | Mistral AI | 119B total / 6B active MoE; 256K context | Unified multimodal understanding, configurable reasoning, coding agents and document analysis | Apache 2.0 open weights, Mistral API and self-hosting |
+| [Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) | 2026-02 | Alibaba / Qwen | 397B total / 17B active; 262K native, extensible to ~1M tokens | Native vision-language processing, multilingual agents, coding, tool use and visual understanding | Apache 2.0 open weights and Alibaba Cloud Model Studio |
+## 🆕 Foundation Models — 2025 and the beginning of 2026
 <div style="overflow-x:auto;">
 <table>
   <thead>
