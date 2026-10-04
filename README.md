@@ -93,26 +93,45 @@
 
 This is a curated list of new and up-to-date leaderboards for Large Language Models (LLMs), Vision-Language Models (VLMs), and multimodal models, published or updated in 2025. Each leaderboard provides performance metrics, rankings, and comparisons for state-of-the-art foundation models.
 
-1. **[LLM Leaderboard 2025 - llm-stats.com](https://llm-stats.com)**  
-   Comprehensive leaderboard for LLMs with performance metrics and benchmark data. Includes interactive analysis tools to compare models like GPT-4o, Llama, o1, Gemini, and Claude based on context window, speed, and price. 
+## Foundation Models Leaderboards (2026)
 
-2. **[Open LLM Leaderboard - Hugging Face](https://huggingface.co/open-llm-leaderboard)**  
-   Evaluates open-source LLMs using benchmarks like IFEval, BBH, and MATH. Features real-time filtering and analysis of models, with community voting and comprehensive results.
+A curated list of leaderboards for comparing state-of-the-art Large Language Models (LLMs), Vision-Language Models (VLMs), multimodal models, and AI agents in 2026. Includes independent evaluations, human-preference rankings, specialized benchmarks, and benchmark aggregators.
 
-3. **[LLM Leaderboard 2025 - Vellum](https://www.vellum.ai/llm-leaderboard)**  
-   Compares capabilities, price, and context window for leading commercial and open-source LLMs. Features 2025 benchmark data from model providers and independent evaluations, focusing on non-saturated benchmarks (excluding MMLU). 
+> [!NOTE]
+> Links and descriptions reviewed on 2026-10-05. Rankings change frequently, and model coverage varies by leaderboard. Compare the exact model version, reasoning effort, tool access, agent framework, and benchmark version. Human-preference scores, benchmark accuracy, and agent task-completion rates measure different capabilities.
 
-4. **[LLM Leaderboard - Artificial Analysis](https://artificialanalysis.ai)**  
-   Ranks over 100 LLMs across metrics like intelligence, price, performance, speed (tokens per second), and context window. Provides detailed comparisons for models from OpenAI, Google, DeepSeek, Alibaba Cloud and others. 
+1. [**Artificial Analysis — Model Intelligence, Speed & Price**](https://artificialanalysis.ai/leaderboards/models)\
+   Independently compares leading proprietary and open-weight models using the Artificial Analysis Intelligence Index, pricing, output speed, latency, and context windows. Useful for assessing capability alongside inference cost and performance.
 
-5. **[SEAL LLM Leaderboards](https://scale.com/leaderboards)**  
-   Expert-driven, private evaluations of LLMs across domains like coding and instruction following. Uses curated datasets to prevent overfitting and ensure high-complexity evaluations. 
+2. [**Arena — Human-Preference Leaderboards**](https://arena.ai/leaderboard)\
+   Ranks models and agents using evaluations from people interacting with AI systems. Offers separate leaderboards for text, vision, documents, search, web development, agents, and image/video generation. Useful for comparing user preferences across specific tasks.
 
-6. **[Open VLM Leaderboard - Hugging Face](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)**  
-   Ranks open-source VLMs using 23 multimodal benchmarks (e.g., MMBench_V11, MathVista). Evaluates models like GPT-4v, Gemini, QwenVLPlus, and LLaVA on image-text tasks.
+3. [**Scale Labs — Frontier, Agentic & Safety Leaderboards**](https://labs.scale.com/leaderboard)\
+   Hosts specialized evaluations covering frontier reasoning, software engineering, tool use, professional work, multimodal understanding, and safety. Includes Humanity’s Last Exam, SWE-Bench Pro, SWE Atlas, MCP Atlas, and the Remote Labor Index.
 
-7. **[Zero-Shot Video Question Answer on Video-MME](https://paperswithcode.com/sota/zero-shot-video-question-answer-on-video-mme-1)**  
-   This task present the results of Zeroshot Question Answer results on TGIF-QA dataset for LLM powered Video Conversational Models.
+4. [**SWE-bench — Software Engineering Leaderboards**](https://www.swebench.com/)\
+   Evaluates coding systems on their ability to resolve real GitHub issues, reporting the percentage of tasks solved. Includes Verified, Multilingual, Multimodal, Lite, and Full tracks. Results reflect the model together with its agent framework and execution setup.
+
+5. [**Terminal-Bench — Agent Performance in Terminal Environments**](https://www.tbench.ai/)\
+   Evaluates agents on challenging tasks performed in executable terminal environments. Reports task resolution rates alongside model and agent identities, with cost and token information where available. Compare results within the same benchmark version.
+
+6. [**Vals AI — Professional Work & Multimodal Evaluations**](https://www.vals.ai/)\
+   Compares models on practical tasks across finance, legal work, coding, and document understanding. Provides the Vals Index, a Multimodal Index, and individual benchmark results, with evaluation settings and cost information for interpreting performance.
+
+7. [**OpenVLM Leaderboard — OpenCompass / VLMEvalKit**](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)\
+   Compares publicly available open-weight and API-based vision-language models using VLMEvalKit. Covers visual reasoning, OCR, chart and diagram understanding, and hallucination-related evaluations, including MMMU, MathVista, OCRBench, and MMStar. Check each model’s evaluation date and available benchmark coverage.
+
+8. [**Video-MME — Video Understanding Benchmark**](https://video-mme.github.io/)\
+   Provides evaluations of multimodal models on video understanding across short, medium, and long videos. Useful for comparing temporal comprehension and video question answering. Check the evaluation configuration, including whether subtitles are provided.
+
+9. [**LLM Stats — Model Rankings & Comparison**](https://llm-stats.com/)\
+   Aggregates public benchmark results and live API metrics into model comparisons and composite rankings. Includes reasoning, coding, agent capabilities, context windows, speed, pricing, and licensing information. Useful for broad discovery; consult the underlying benchmark sources for detailed comparisons.
+
+10. [**Vellum — LLM Benchmark Comparison**](https://www.vellum.ai/llm-leaderboard)\
+    Collects public benchmark results from model providers, independent evaluations, and the open-source community. Offers task-specific comparisons across reasoning, coding, automation, computer use, and browsing. Check the source and evaluation setup before comparing scores.
+
+> [!TIP]
+> Start with Artificial Analysis for capability, cost, and speed; Arena for human preferences; SWE-bench and Terminal-Bench for coding agents; and OpenVLM or Video-MME for visual understanding. No single leaderboard establishes the best model for every task.
 
 ## 🧪 Agentic and Real-World Benchmarks (2025–2026)
 
