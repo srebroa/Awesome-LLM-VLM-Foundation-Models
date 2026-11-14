@@ -132,6 +132,10 @@ A curated list of leaderboards for comparing state-of-the-art Large Language Mod
 > [!TIP]
 > Start with Artificial Analysis for capability, cost, and speed; Arena for human preferences; SWE-bench and Terminal-Bench for coding agents; and OpenVLM or Video-MME for visual understanding. No single leaderboard establishes the best model for every task.
 
+11. [**AIHOT Model Leaderboard**](https://aihot.news/leaderboard)\
+   A Chinese-language comparison of general-purpose language models based on published third-party evaluations. It shows score coverage, the contributing benchmarks, and the scoring method.
+
+
 ## 🧪 Agentic and Real-World Benchmarks 
 
 Traditional question-answering benchmarks are increasingly supplemented by evaluations that test complete agents in realistic environments.
