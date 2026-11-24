@@ -1,6 +1,25 @@
 <h1>Awesome-LLM-VLM-Foundation-Models 🚀⭐⭐⭐</h1> 
 <p>Awesome curated list of LLM, VLM , multimodal systems, open weights, evaluation benchmarks, and practical deployment tools</p>
 
+## Coding Agent Benchmarks
+
+| Benchmark | What it measures | Key question | Example task | Number of tasks | Environment | Expected result | Benchmark creator |
+|---|---|---|---|---:|---|---|---|
+| **[FrontierCode-AA 2.0](https://artificialanalysis.ai/evaluations/frontiercode-2-0)** | Production-quality code, maintainability, backward compatibility, and regression prevention. | Can it write production-quality code? | Implement cursor-based API pagination without breaking existing clients. | 132 | Real open-source repositories, terminal, tests, internet access. | Production-ready code changes that a project maintainer would approve and merge. | Cognition / Artificial Analysis |
+| **[SWE-Atlas-QnA-AA](https://labs.scale.com/leaderboard/sweatlas-qna)** | Codebase understanding, architectural analysis, cross-file reasoning, and dependency tracing. | Can it understand our existing system? | Explain how authentication works across controllers, middleware, services, and database layers. | 124 | Existing repositories; no modifications to tracked source files. | Accurate, comprehensive technical explanation grounded in the source code. | Scale AI / Artificial Analysis |
+| **[Terminal-Bench 4.1](https://www.tbench.ai/)** | Autonomous execution, terminal usage, debugging, troubleshooting, and tool orchestration. | Can it work independently and solve problems? | Diagnose a database performance issue, optimize queries, and verify the improvements. | 66 | Isolated terminal environments, CLI tools, system utilities, automated tests. | Fully functional solution that satisfies automated verification checks. | Stanford University / Laude Institute / Open-source contributors |
+| **[CursorBench 4.1](https://cursor.com/en-US/cursorbench)** | Realistic developer workflows, ambiguous requirements, instruction following, and multi-file changes. | Can it handle realistic developer requests? | Refactor a tightly coupled service while preserving existing behavior and architectural conventions. | Not verified | Cursor agent environment with repositories and real developer tasks. | Correct and complete code changes satisfying the developer's explicit and implicit requirements. | Cursor (Anysphere) |
+| **[SWE-Bench Pro v2](https://labs.scale.com/leaderboard/swe_bench_pro_public_v2)** | Complex repository-level bug fixing, feature implementation, and regression prevention. | Can it reliably resolve complex repository issues? | Fix a concurrency bug affecting multiple application modules. | 642 | 11 real repositories, isolated containers, automated test suites. | Code patch resolving the issue and passing functional and regression tests. | Scale AI |
+| **[SWE-Bench Live](https://swe-bench-live.github.io/)** | Resolving recently published GitHub issues across multiple programming languages and operating systems. | Can it solve previously unseen real-world software issues? | Fix a recently reported regression in an open-source Java library. | Dynamic; 1,077 in MultiLang | Real GitHub repositories, Linux and Windows containers, multiple languages. | Verified code patch resolving a recently published GitHub issue. | Microsoft Research |
+| **[FrontierSWE v2](https://www.frontierswe.com/)** | Exceptionally complex, long-running engineering tasks, advanced reasoning, optimization, and research. | Can it handle expert-level technical challenges? | Reimplement a compiler or optimize a computational engine. | 34 | Full Linux environments, CPU/GPU resources, up to 20 hours per task. | Functional, optimized technical solution satisfying task-specific correctness and performance criteria. | Proximal Labs |
+
+> **Notes:**
+> - Benchmark versions and task counts as of November 24, 2026.
+> - Example tasks are illustrative, not necessarily actual benchmark tasks.
+> - SWE-Bench Live is continuously updated.
+> - FrontierCode-AA 2.0, Terminal-Bench 4.1, and SWE-Atlas-QnA-AA
+>   constitute the Artificial Analysis Coding Agent Index v2.1.
+
 ## 🆕 Foundation Models Update — 2026
 
 > [!NOTE]
